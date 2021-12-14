@@ -3,8 +3,8 @@
 Je m'appelle Valentin (NEXOmega), je développe depuis l'age de 12 Ans.
 </p>
 
-<p>
 <h3>Mes languages </br></h3>
+<p>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
