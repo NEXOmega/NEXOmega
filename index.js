@@ -12,12 +12,14 @@ const MUSTACHE_MAIN_DIR = './html/main.mustache';
 let DATA = {
   user_info: {
       name: "Valentin",
+      age: 19,
       username: "NEXOmega"
   },
   languages: [
     generate_langage("Java", "java"),
     generate_langage("JavaScript", "javascript"),
     generate_langage("MongoDB", "mongodb"),
+    generate_langage("Redis", "redi"),
     generate_langage("NodeJs", "Node.js"),
     generate_langage("Git", "git"),
     generate_langage("Linux", "linux"),
