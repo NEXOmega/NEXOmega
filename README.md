@@ -1,6 +1,6 @@
 <h1>Salut, c'est Valentin (NEXOmega)</h1>
 <p>
-<h2>Petite présentation<h2>
+<h2>Petite présentation</h2>
 Valentin, 19 Ans, Passioné d'Informatique et de bidouillage.<br/>
 J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    inecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
 </p>
