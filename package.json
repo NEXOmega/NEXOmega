@@ -1,0 +1,23 @@
+{
+  "name": "nexomega",
+  "version": "1.0.0",
+  "description": "README.md generator for personal profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEXOmega/NEXOmega.git"
+  },
+  "author": "NEXOmega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEXOmega/NEXOmega/issues"
+  },
+  "homepage": "https://github.com/NEXOmega/NEXOmega#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
