@@ -18,6 +18,6 @@ J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    i
 <img src="https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=NEXOmega&amp;show_icons=true" />
 </p>
