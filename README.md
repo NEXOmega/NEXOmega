@@ -5,8 +5,8 @@ Valentin, 19 Ans, Passioné d'Informatique et de bidouillage.<br/>
 J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    inecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
 </p>
 
-<p>
 <h2>Mes Languages et Outils Favoris</br></h2>
+<p>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
