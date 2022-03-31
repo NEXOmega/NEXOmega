@@ -49,27 +49,21 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </p>
 
 
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-
 <table style="width:100%">
 <thead>
 <th colspan="2">Que dois je boire ?</th>
 </thead>
 <tbody>
 <tr>
-<td>Coke and Drops</td>
+<td>Shanghai Cocktail</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1478820678.jpg" />
