@@ -27,3 +27,29 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </a>
 {{/contacts}}
 </p>
+
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+<thead>
+<th colspan="2">Que dois je boire ?</th>
+</thead>
+<tbody>
+<tr>
+<td>{{drink.name}}</td>
+</tr>
+<tr>
+<td>{{drink.category}}</td>
+<td>{{drink.alcoholic}}</td>
+</tr>
+<tr>
+<td>{{drink.instructions}}</td>
+</tr>
+</tbody>
+</table>
+<img src="{{& drink.image}}" />

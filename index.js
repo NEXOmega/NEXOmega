@@ -1,4 +1,5 @@
-import { generate_langage, generate_badge } from "./src/generator.js";
+import { generate_langage, generate_badge, generate_drink } from "./src/generator.js";
+import async from "async";
 import Mustache from "mustache";
 import fs from "fs";
 const MUSTACHE_MAIN_DIR = "./html/main.mustache";
@@ -54,11 +55,35 @@ let DATA = {
   ],
 };
 
+generate_drink().then((result) =>{
+  DATA.drink = "result.data.drinks[0].strDrink";
+})
+
 function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync("README.md", output);
-  });
+
+  async.waterfall([
+    function generate(callback) {
+      generate_drink().then((result) =>{
+        DATA.drink = {
+          name: result.data.drinks[0].strDrink,
+          altName: result.data.drinks[0].strDrinkAlternate,
+          category: result.data.drinks[0].strCategory,
+          alcoholic: result.data.drinks[0].strAlcoholic,
+          image: result.data.drinks[0].strDrinkThumb,
+          instructions: result.data.drinks[0].strInstructions,
+
+        }
+        callback(null, 'Drink Generated');
+      })
+    },
+    function generate_html(data, callback) {
+      fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync("README.md", output);
+      })
+      callback(null, 'done')
+    }
+  ])
 }
 generateReadMe();

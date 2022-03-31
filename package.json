@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/NEXOmega/NEXOmega#readme",
   "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.26.1",
     "mustache": "^4.2.0"
   }
 }
