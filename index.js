@@ -62,7 +62,7 @@ generate_drink().then((result) =>{
 function generateReadMe() {
 
   async.waterfall([
-    function generate(callback) {
+    function generate(done) {
       generate_drink().then((result) =>{
         DATA.drink = {
           name: result.data.drinks[0].strDrink,
@@ -73,17 +73,19 @@ function generateReadMe() {
           instructions: result.data.drinks[0].strInstructions,
 
         }
-        callback(null, result);
+        done(null, result);
       })
     },
-    function generate_html(data, callback) {
+    function generate_html(data, done) {
       fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
         fs.writeFileSync("README.md", output);
       })
-      callback(null, 'done')
+      done(null, 'done')
     }
-  ])
+  ], function (err) {
+    if (err) throw new Error(err);
+  })
 }
 generateReadMe();
