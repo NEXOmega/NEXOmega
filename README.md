@@ -25,10 +25,7 @@ J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    i
 <a href="http://github.com/NEXOmega">
 <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="http://google.com">
+<a href="https://www.youtube.com/channel/UC0Ko8lLkMC7j63IE6RLnAjA">
 <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="http://google.com">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
