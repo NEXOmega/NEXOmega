@@ -18,6 +18,7 @@ let DATA = {
   languages: [
     generate_langage("Java", "java", "blue", "white"),
     generate_langage("JavaScript", "javascript", "blue", "white"),
+    generate_langage("Python", "python", "blue", "white"),
     generate_langage("MongoDB", "mongodb", "blue", "white"),
     generate_langage("Redis", "redi", "blue", "white"),
     generate_langage("NodeJs", "Node.js", "blue", "white"),
