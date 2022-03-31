@@ -1,5 +1,5 @@
 // index.js
-import generate_langage from './src/generate_langage.js';
+import {generate_langage, generate_badge} from './src/generator.js';
 import Mustache from 'mustache';
 import fs from "fs";
 const MUSTACHE_MAIN_DIR = './html/main.mustache';
@@ -12,19 +12,28 @@ const MUSTACHE_MAIN_DIR = './html/main.mustache';
 let DATA = {
   user_info: {
       name: "Valentin",
-      age: 19,
+      age: new Date().getFullYear() - 2002,
       username: "NEXOmega"
   },
   languages: [
-    generate_langage("Java", "java"),
-    generate_langage("JavaScript", "javascript"),
-    generate_langage("MongoDB", "mongodb"),
-    generate_langage("Redis", "redi"),
-    generate_langage("NodeJs", "Node.js"),
-    generate_langage("Git", "git"),
-    generate_langage("Linux", "linux"),
-    generate_langage("NixOs", "nixos"),
-    generate_langage("Godot", "godot-engine")
+    generate_langage("Java", "java", "blue", "white"),
+    generate_langage("JavaScript", "javascript", "blue", "white"),
+    generate_langage("MongoDB", "mongodb", "blue", "white"),
+    generate_langage("Redis", "redi", "blue", "white"),
+    generate_langage("NodeJs", "Node.js", "blue", "white"),
+    generate_langage("Git", "git", "blue", "white"),
+    generate_langage("Linux", "linux", "blue", "white"),
+    generate_langage("NixOs", "nixos", "blue", "white"),
+    generate_langage("Godot", "godot-engine", "blue", "white")
+  ],
+  contacts: [
+    {
+      "image": generate_badge("Github", "github", "black", "white"),
+      "link": "http://github.com/NEXOmega"
+    }, {
+      "image": generate_badge("Youtube", "youtube", "FF0000", "white"),
+      "link": "https://www.youtube.com/channel/UC0Ko8lLkMC7j63IE6RLnAjA"
+    }
   ]
 };
 

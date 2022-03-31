@@ -1,7 +1,6 @@
 <h1>Salut, c'est Valentin (NEXOmega)</h1>
 <p>
-<h2>Petite présentation</h2>
-Valentin, 19 Ans, Passioné d'Informatique et de bidouillage.<br/>
+Valentin, 20 Ans, Passioné d'Informatique et de bidouillage.<br/>
 J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    inecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
 </p>
 
@@ -20,4 +19,16 @@ J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    i
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=NEXOmega&amp;show_icons=true" />
+</p>
+
+<p>
+<a href="http://github.com/NEXOmega">
+<img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="http://google.com">
+<img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="http://google.com">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
