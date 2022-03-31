@@ -21,6 +21,6 @@ jobs:
     - name: Generate README.md
       run: npm run build
     - name: Push new README.ms
-      uses: mikeal/publish-to-github-action@master
+      uses: mikeal/publish-to-github-action@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
