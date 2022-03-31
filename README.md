@@ -1,20 +1,40 @@
 <h1>Salut, c'est Valentin (NEXOmega)</h1>
 <p>
-Valentin, 20 Ans, Passioné d'Informatique et de bidouillage.<br/>
-J'ai commencé la programmation à l'age de 12 Ans en créant des plugins M    inecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
+Valentin, 20 Ans, Passioné d'Informatique et de bricollage en tout genre notamment en domotique.<br/>
+J'ai commencé la programmation à l'age de 12 Ans en créant des plugins Minecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
+Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi en parralèle du JavaScript, Python ou du Rust.
 </p>
 
 <h2>Mes Languages et Outils Favoris</br></h2>
 <p>
+<h3>Languages Good With</h3>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redis-blue?style=flat-square&logo=redi&logoColor=white" />
-<img src="https://img.shields.io/badge/-NodeJs-blue?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<p>
+<h3>Languages/Framework Learning</h3>
+<img src="https://img.shields.io/badge/-Redis-blue?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-NodeJs-blue?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white" />
+</p>
+
+<p>
+<h3>Environments</h3>
+<img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-NixOs-blue?style=flat-square&logo=nixos&logoColor=white" />
-<img src="https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/-Raspberrry-blue?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
+</p>
+
+<p>
+<h3>Environments</h3>
+<img src="https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-IntelliJ Idea-blue?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
 <p>
