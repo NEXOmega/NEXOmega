@@ -10,6 +10,10 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <p>
 <h3>Habitué avec</h3>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
+<<<<<<< HEAD
+=======
+<img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
+>>>>>>> 650f8f06605b98e9de67883082ce68f97e8fddf6
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" />
