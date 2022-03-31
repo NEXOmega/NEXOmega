@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bleeding Surgeon</td>
+<td>Paradise</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
+<td>Shake together over ice. Strain into cocktail glass and serve chilled.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg" />
