@@ -73,7 +73,7 @@ function generateReadMe() {
           instructions: result.data.drinks[0].strInstructions,
 
         }
-        callback(null, 'Drink Generated');
+        callback(null, result);
       })
     },
     function generate_html(data, callback) {
