@@ -6,32 +6,30 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </p>
 
 <h2>Mes Languages et Outils Favoris</br></h2>
+
 <p>
-<h3>Languages Good With</h3>
+<h3>Habitué avec</h3>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" />
 </p>
-
 <p>
-<h3>Languages/Framework Learning</h3>
+<h3>J&#39;apprends aussi</h3>
 <img src="https://img.shields.io/badge/-Redis-blue?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/-NodeJs-blue?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white" />
 </p>
-
 <p>
-<h3>Environments</h3>
+<h3>J&#39;ai l&#39;habitude de pratiquer sur</h3>
 <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-NixOs-blue?style=flat-square&logo=nixos&logoColor=white" />
 <img src="https://img.shields.io/badge/-Raspberrry-blue?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
 </p>
-
 <p>
-<h3>Environments</h3>
+<h3>En utilisant</h3>
 <img src="https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white" />
 <img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-IntelliJ Idea-blue?style=flat-square&logo=intellij-idea&logoColor=white" />

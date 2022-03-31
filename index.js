@@ -8,33 +8,40 @@ let DATA = {
     name: "Valentin",
     age: new Date().getFullYear() - 2002,
     username: "NEXOmega",
-  },
-  languages: {
-    good_with: [
-      generate_langage("Java", "java", "blue", "white"),
-      generate_langage("Python", "python", "blue", "white"),
-      generate_langage("MongoDB", "mongodb", "blue", "white"),
-      generate_langage("Git", "git", "blue", "white"),
-      
-    ],
-    learning: [
-      generate_langage("Redis", "redis", "blue", "white"),
-      generate_langage("NodeJs", "Node.js", "blue", "white"),
-      generate_langage("JavaScript", "javascript", "blue", "white"),
-      generate_langage("Godot", "godot-engine", "blue", "white"),
-    ],
-    environments: [
-      generate_langage("Docker", "docker", "blue", "white"),
-      generate_langage("Linux", "linux", "blue", "white"),
-      generate_langage("NixOs", "nixos", "blue", "white"),
-      generate_langage("Raspberrry", "Raspberry-Pi", "blue", "white"),
-    ],
-    tools: [
-      generate_langage("Trello", "Trello", "blue", "white"),
-      generate_langage("VSCode", "visual-studio-code", "blue", "white"),
-      generate_langage("IntelliJ Idea", "intellij-idea", "blue", "white"),
-    ]
-  },
+  },  
+  knowledge: [
+    {
+      name: "Habitué avec",
+      list: [
+        generate_langage("Java", "java", "blue", "white"),
+        generate_langage("Python", "python", "blue", "white"),
+        generate_langage("MongoDB", "mongodb", "blue", "white"),
+        generate_langage("Git", "git", "blue", "white"),
+    ]},
+    {
+      name: "J'apprends aussi",
+      list: [
+        generate_langage("Redis", "redis", "blue", "white"),
+        generate_langage("NodeJs", "Node.js", "blue", "white"),
+        generate_langage("JavaScript", "javascript", "blue", "white"),
+        generate_langage("Godot", "godot-engine", "blue", "white"),
+    ]},
+    {
+      name: "J'ai l'habitude de pratiquer sur",
+      list: [
+        generate_langage("Docker", "docker", "blue", "white"),
+        generate_langage("Linux", "linux", "blue", "white"),
+        generate_langage("NixOs", "nixos", "blue", "white"),
+        generate_langage("Raspberrry", "Raspberry-Pi", "blue", "white"),
+    ]},
+    {
+      name: "En utilisant",
+      list: [
+        generate_langage("Trello", "Trello", "blue", "white"),
+        generate_langage("VSCode", "visual-studio-code", "blue", "white"),
+        generate_langage("IntelliJ Idea", "intellij-idea", "blue", "white"),
+    ]},
+  ],
   contacts: [
     {
       image: generate_badge("Github", "github", "black", "white"),
