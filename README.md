@@ -10,10 +10,6 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <p>
 <h3>Habitué avec</h3>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
-<<<<<<< HEAD
-=======
-<img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
->>>>>>> 650f8f06605b98e9de67883082ce68f97e8fddf6
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" />
@@ -65,15 +61,15 @@ table, th, td {
 </thead>
 <tbody>
 <tr>
-<td>Dry Rob Roy</td>
+<td>Coke and Drops</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Soft Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.</td>
+<td>Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/typuyq1439456976.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg" />
