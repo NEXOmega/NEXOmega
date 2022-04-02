@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Winter Rita</td>
+<td>Adam Sunrise</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
+<td>Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1&#x2F;2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg" />
