@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Hunter&#39;s Moon</td>
+<td>50&#x2F;50</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put the Bombay Sapphire, Martini Bianco, sugar syrup &amp; blackberries in a cocktail shaker with lots of ice and shake vigorously before pouring into a balloon glass, topping up with lemonade and garnishing with a wedge of orange.</td>
+<td>fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t0iugg1509556712.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwpyvr1461919316.jpg" />
