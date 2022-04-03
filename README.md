@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Talos Coffee</td>
+<td>155 Belmont</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add your GM and then add your coffee.</td>
+<td>Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg" />
