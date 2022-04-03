@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jewel Of The Nile</td>
+<td>Grass Skirt</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/hx4nrb1504884947.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyvprp1473891585.jpg" />
