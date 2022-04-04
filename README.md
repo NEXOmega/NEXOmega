@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rail Splitter</td>
+<td>Slippery Nipple</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.</td>
+<td>Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" />
