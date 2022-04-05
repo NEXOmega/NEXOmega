@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Whitecap Margarita</td>
+<td>Texas Sling</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place all ingredients in a blender and blend until smooth. This makes one drink.</td>
+<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
