@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Slippery Nipple</td>
+<td>Alexander</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+<td>Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg" />
