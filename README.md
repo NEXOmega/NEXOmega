@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kir Royale</td>
+<td>Gideon&#39;s Green Dinosaur</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Creme de cassis in glass, gently pour champagne on top</td>
+<td>Add all ingredients in collins glass with ice and stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yt9i7n1504370388.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg" />
