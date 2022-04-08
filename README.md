@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Sour</td>
+<td>Pisco Sour</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.</td>
+<td>Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/noxp7e1606769224.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg" />
