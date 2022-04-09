@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiss me Quick</td>
+<td>Spritz</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>mix in the glass</td>
+<td>Build into glass over ice, garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/m7iaxu1504885119.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j9evx11504373665.jpg" />
