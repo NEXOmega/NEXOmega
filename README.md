@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Corpse Reviver</td>
+<td>Abbey Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake, strain, straight up, cocktail glass rinsed with absinthe
-</td>
+<td>Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mr30ob1582479875.jpg" />
