@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Whiskey Sour</td>
+<td>The Last Word</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice. Strain into chilled glass, garnish and serve. If served &#39;On the rocks&#39;, strain ingredients into old-fashioned glass filled with ice.</td>
+<td>Shake with ice and strain into a cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg" />
