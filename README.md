@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Elderflower Caipirinha</td>
+<td>Corpse Reviver</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!</td>
+<td>Shake, strain, straight up, cocktail glass rinsed with absinthe
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg" />
