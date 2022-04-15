@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Autodafé</td>
+<td>A Piece of Ass</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.</td>
+<td>Put ice in glass. Pour in shots. Fill with Sour Mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7dkf0i1487602928.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" />
