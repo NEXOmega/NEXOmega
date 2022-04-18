@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kill the cold Smoothie</td>
+<td>Fahrenheit 5000</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
+<td>Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg" />
