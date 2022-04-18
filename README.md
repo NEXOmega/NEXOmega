@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Big Red</td>
+<td>A Gilligan&#39;s Island</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into 1 ounce shot glass</td>
+<td>Shaken, not stirred!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" />
