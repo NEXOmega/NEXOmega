@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brigadier</td>
+<td></td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Mix ingredients in a warmed mug and stir.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg" />
+<img src="" />
