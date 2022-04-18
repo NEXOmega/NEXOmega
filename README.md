@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spiced Peach Punch</td>
+<td>Apple Slammer</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.</td>
+<td>pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg" />
