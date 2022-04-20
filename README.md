@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Greyhound</td>
+<td>Stone Sour</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the vodka to a Collins glass filled with ice.
-Top with grapefruit juice and stir.
-
-</td>
+<td>Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" />
