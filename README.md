@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Stone Sour</td>
+<td>Zima Blaster</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
+<td>Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg" />
