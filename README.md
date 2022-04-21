@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka And Tonic</td>
+<td>A Day at the Beach</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.</td>
+<td>Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" />
