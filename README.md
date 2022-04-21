@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Espresso Martini</td>
+<td>Adam Bomb</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass</td>
+<td>Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tpxurs1454513016.jpg" />
