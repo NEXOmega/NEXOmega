@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aztec Punch</td>
+<td>Banana Strawberry Shake Daiquiri</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don&#39;t over do it.</td>
+<td>Blend all together in a blender until smooth.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg" />
