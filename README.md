@@ -48,21 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bellini Martini</td>
+<td>Mudslinger</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.</td>
+<td>Add all contents to a large jug or punch bowl. Stir well!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg" />
