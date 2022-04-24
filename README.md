@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Caipirissima</td>
+<td>Vesper</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Same as Caipirinha but instead of cachaca you add WHITE RUM. It&#39;s great!!!!!!!!</td>
+<td>Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mtdxpa1504374514.jpg" />
