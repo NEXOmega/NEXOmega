@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mango Orange Smoothie</td>
+<td>Jello shots</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and liquify.</td>
+<td>Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vdp2do1487603520.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg" />
