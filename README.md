@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mojito Extra</td>
+<td>Arthur Tompkins</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum &amp; fill up with club soda. Top it with Angostura.</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7onfhz1493067921.jpg" />
