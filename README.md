@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Stinger</td>
+<td>Lemon Elderflower Spritzer</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.</td>
+<td>Pour all ingredients over ice, stir and enjoy!
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vvop4w1493069934.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg" />
