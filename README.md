@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pink Moon</td>
+<td>1-900-FUK-MEUP</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!</td>
+<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lnjoc81619696191.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
