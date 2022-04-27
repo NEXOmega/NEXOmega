@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sidecar</td>
+<td>Tequila Slammer</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
+<td>Mix carefully to avoid releasing the dissolved CO2.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" />
