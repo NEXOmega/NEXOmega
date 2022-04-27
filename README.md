@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Russian Spring Punch</td>
+<td>Gagliardo</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the ingredients into an highball glass, top with Sparkling wine.</td>
+<td>Shake well and serve in a cocktail glass. This is a home cocktail of American&#x2F;Internet Bar del Pozzo, Pavia, Italy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg" />
