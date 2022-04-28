@@ -48,19 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gimlet</td>
+<td>Herbal flame</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all the ingredients to a shaker and fill with ice.
-
-Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
-
-Garnish with a lime wheel.</td>
+<td>Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg" />
