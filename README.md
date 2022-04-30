@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Royal Flush</td>
+<td>Angel Face</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all the ingredients into tumbler over ice. Strain into glass.</td>
+<td>Shake all ingredients with ice and strain contents into a cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg" />
