@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jamaican Coffee</td>
+<td>Tomato Tang</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg" />
