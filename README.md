@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snowball</td>
+<td>Black Forest Shake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place one ice cube in the glass and add 1 1&#x2F;2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.</td>
+<td>In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7ibfs61504735416.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" />
