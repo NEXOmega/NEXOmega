@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Chocolate Drink</td>
+<td>Masala Chai</td>
 </tr>
 <tr>
-<td>Cocoa</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don&#39;t let it boil! Serve in coffee mug.</td>
+<td>Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg" />
