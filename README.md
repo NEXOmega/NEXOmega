@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Alice in Wonderland</td>
+<td>Turkeyball</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix the three ingredients one to one to one</td>
+<td>Shake with ice and strain into a shot glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg" />
