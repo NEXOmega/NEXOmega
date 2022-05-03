@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Moranguito</td>
+<td>Alice in Wonderland</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>first you put rhe absinthe, then put tequila, then put the Granadine syrup.</td>
+<td>Just mix the three ingredients one to one to one</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg" />
