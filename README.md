@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Turkeyball</td>
+<td>Hemingway Special</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice and strain into a shot glass.</td>
+<td>Pour all ingredients into a shaker with ice. Shake.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg" />
