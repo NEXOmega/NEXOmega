@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Almond Joy</td>
+<td>Screaming Orgasm</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Pour first vodka, then Bailey&#39;s, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey&#39;s to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey&#39;s first.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xutuqs1483388296.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg" />
