@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Iced Coffee Fillip</td>
+<td>Chocolate Monkey</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Mix together in a coffee mug and chill before serving.</td>
+<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
