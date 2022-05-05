@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jelly Bean</td>
+<td>ACID</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>mix equal parts in pony glass-tastes just like a jelly bean!</td>
+<td>Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg" />
