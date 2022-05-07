@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Fruit Cooler</td>
+<td>Vesper</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices. Juice the rest. Mix together the lemon juice, strawberries, apple juice, and soda water. Add slices of lemon (decor, really). In glasses, put ice cubes, and a slice of apple. Pour drink in, and serve.</td>
+<td>Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/i3tfn31484430499.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mtdxpa1504374514.jpg" />
