@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Cream</td>
+<td></td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Mix scotch and milk. Add half-and-half. Add rest.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg" />
+<img src="" />
