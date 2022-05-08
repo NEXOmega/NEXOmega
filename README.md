@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sweet Tooth</td>
+<td>Bahama Mama</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
+<td>Add 2 parts club soda or more or less to taste.
+
+Mix it all together and pour over a bunch of ice. Drink with a straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg" />
