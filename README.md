@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Applecar</td>
+<td>Hot Chocolate to Die for</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocoa</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg" />
