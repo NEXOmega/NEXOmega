@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Karsk</td>
+<td>Lassi Khara</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.</td>
+<td>Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg" />
