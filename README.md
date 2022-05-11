@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Martini</td>
+<td>Coffee-Vodka</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
-
-For this recipe, you&#39;ll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It&#39;s a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.</td>
+<td>Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won&#39;t evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg" />
