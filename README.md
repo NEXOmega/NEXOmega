@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jello shots</td>
+<td>Whitecap Margarita</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...</td>
+<td>Place all ingredients in a blender and blend until smooth. This makes one drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg" />
