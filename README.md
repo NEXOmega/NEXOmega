@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lemon Shot</td>
+<td>Chocolate Monkey</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.</td>
+<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
