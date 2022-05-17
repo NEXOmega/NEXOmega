@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Royal Flush</td>
+<td>California Root Beer</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Soft Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all the ingredients into tumbler over ice. Strain into glass.</td>
+<td>Put Kahlua and Galliano in highball glass fill with soda</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rsxuyr1472719526.jpg" />
