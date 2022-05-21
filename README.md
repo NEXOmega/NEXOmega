@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Clover Club</td>
+<td>Brooklyn</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Dry shake ingredients to emulsify, add ice, shake and served straight up.</td>
+<td>Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t0aja61504348715.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg" />
