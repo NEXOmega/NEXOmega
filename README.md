@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brain Fart</td>
+<td>Lunch Box</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda&#39;s are very cold.</td>
+<td>Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg" />
