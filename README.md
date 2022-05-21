@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brooklyn</td>
+<td>Brain Fart</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
+<td>Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda&#39;s are very cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg" />
