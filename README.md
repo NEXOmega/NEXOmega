@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kill the cold Smoothie</td>
+<td>Swedish Coffee</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Coffee &#x2F; Tea</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
+<td>Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg" />
