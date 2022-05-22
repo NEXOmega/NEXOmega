@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>After sex</td>
+<td>Mulled Wine</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar</td>
+<td>Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" />
