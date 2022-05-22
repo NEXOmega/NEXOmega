@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Kill the cold Smoothie</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg" />
