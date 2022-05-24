@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sea breeze</td>
+<td>Irish Curdling Cow</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.</td>
+<td>Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg" />
