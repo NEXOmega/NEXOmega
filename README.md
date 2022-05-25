@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Sweet &amp; Sour</td>
+<td>Quick F**K</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill the blender with 3&#x2F;4 ice. Add sweet &amp; sour mix to the top of the ice. Add about 1&quot; of pineapple juice, 1&#x2F;2&quot; of melon liqeur, and 1&#x2F;2 to 1&#x2F;4&quot; of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
+<td>In a shot glass add 1&#x2F;3 Kahlua first. Then 1&#x2F;3 Miduri, topping it off with a 1&#x2F;3 bailey&#39;s irish cream</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" />
