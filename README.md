@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Karate</td>
+<td>Iced Coffee</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+<td>Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg" />
