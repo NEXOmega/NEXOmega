@@ -48,16 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Basil Smash</td>
+<td>Greyhound</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
-Filter and serve in a tumbler with ice</td>
+<td>Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg" />
