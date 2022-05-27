@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Greyhound</td>
+<td>Jamaican Coffee</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the vodka to a Collins glass filled with ice.
-Top with grapefruit juice and stir.
-
-</td>
+<td>Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg" />
