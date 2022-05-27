@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jamaican Coffee</td>
+<td>Mississippi Planters Punch</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.</td>
+<td>Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/urpyqs1439907531.jpg" />
