@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lemon Elderflower Spritzer</td>
+<td>Porto flip</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients over ice, stir and enjoy!
-</td>
+<td>Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg" />
