@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Chocolate Monkey</td>
+<td>Lemon Elderflower Spritzer</td>
 </tr>
 <tr>
-<td>Shake</td>
-<td>Optional alcohol</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
+<td>Pour all ingredients over ice, stir and enjoy!
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg" />
