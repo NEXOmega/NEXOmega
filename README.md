@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Citrus Coke</td>
+<td>Fruit Cooler</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
-<td>Alcoholic</td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
+<td>Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices. Juice the rest. Mix together the lemon juice, strawberries, apple juice, and soda water. Add slices of lemon (decor, really). In glasses, put ice cubes, and a slice of apple. Pour drink in, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/i3tfn31484430499.jpg" />
