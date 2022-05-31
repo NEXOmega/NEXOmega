@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>3-Mile Long Island Iced Tea</td>
+<td>Rum Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill 14oz glass with ice and alcohol. Fill 2&#x2F;3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.</td>
+<td>In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bylfi21504886323.jpg" />
