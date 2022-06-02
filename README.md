@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blueberry Mojito</td>
+<td>Brooklyn</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.</td>
+<td>Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg" />
