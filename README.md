@@ -48,15 +48,21 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Boozy Snickers Milkshake</td>
+<td>The Laverstoke</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.</td>
+<td>1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
+
+2) Fully fill the glass with cubed ice and stir to chill.
+
+3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
+
+4) Garnish with a snapped ginger slice and an awoken mint sprig.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6xfj5t1517748412.jpg" />
