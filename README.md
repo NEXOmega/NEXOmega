@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Martinez Cocktail</td>
+<td>Creme de Menthe</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+<td>Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yxswtp1441253918.jpg" />
