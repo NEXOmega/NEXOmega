@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rum Runner</td>
+<td>A midsummernight dream</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients in glass &amp; add ice.</td>
+<td>Mix the strawberrys in a blender Pour it together with the vodka,kirch and strawberry liquer over ice in a shaker. Shake well and pour in a highballglass. Fill up with the Russchian water</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ysqvqp1461867292.jpg" />
