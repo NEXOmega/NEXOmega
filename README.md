@@ -48,15 +48,27 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kool-Aid Slammer</td>
+<td>Bloody Punch</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you&#39;ll taste is the kool-aid.</td>
+<td>Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
+
+Step
+2
+
+ 
+In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
+
+Step
+3
+
+ 
+Add blueberries and raisins. They will float and look like bugs in the punch.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kugu2m1504735473.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5yhd3n1571687385.jpg" />
