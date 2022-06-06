@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>110 in the shade</td>
+<td>Baby Guinness</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Drop shooter in glass. Fill with beer</td>
+<td>Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the &quot;Guinness&quot; its &quot;head&quot;.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvyvxs1473482359.jpg" />
