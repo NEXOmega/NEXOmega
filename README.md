@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zambeer</td>
+<td>Abilene</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix sambuca with rootbeer and stir. Add ice</td>
+<td>Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/smb2oe1582479072.jpg" />
