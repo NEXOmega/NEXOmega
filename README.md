@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Zambeer</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Soft Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Mix sambuca with rootbeer and stir. Add ice</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg" />
