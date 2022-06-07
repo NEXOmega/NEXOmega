@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>White Russian</td>
+<td>Passion Fruit Martini</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.</td>
+<td>Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg" />
