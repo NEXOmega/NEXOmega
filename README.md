@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mother&#39;s Milk</td>
+<td>Pysch Vitamin Light</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake over ice, strain. Serves two.</td>
+<td>Shake with ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg" />
