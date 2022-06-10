@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bellini</td>
+<td>Mother&#39;s Milk</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour peach purée into chilled flute, add sparkling wine. Stir gently.</td>
+<td>Shake over ice, strain. Serves two.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg" />
