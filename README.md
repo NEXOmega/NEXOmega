@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Evil Blue Thing</td>
+<td>Lemon Shot</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into glass, and drop in a blue whale! The blue whale isn&#39;t really necessary, but it makes the drink more &quot;fun&quot;.</td>
+<td>Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg" />
