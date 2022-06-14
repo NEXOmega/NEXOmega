@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mudslinger</td>
+<td>Kentucky B And B</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all contents to a large jug or punch bowl. Stir well!</td>
+<td>Pour the bourbon and Benedictine into a brandy snifter.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sqxsxp1478820236.jpg" />
