@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Toddy</td>
+<td>Stone Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.</td>
+<td>Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jxstwf1582582101.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" />
