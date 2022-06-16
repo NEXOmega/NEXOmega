@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>9 1&#x2F;2 Weeks</td>
+<td>Gluehwein</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.</td>
+<td>Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vuxwvt1468875418.jpg" />
