@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kurant Tea</td>
+<td>Cranberry Punch</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!</td>
+<td>Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg" />
