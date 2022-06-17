@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pysch Vitamin Light</td>
+<td>Alice in Wonderland</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
-<td>Non alcoholic</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice.</td>
+<td>Just mix the three ingredients one to one to one</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg" />
