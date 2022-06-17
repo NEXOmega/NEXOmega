@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Arthur Tompkins</td>
+<td>GG</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.</td>
+<td>Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7onfhz1493067921.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vyxwut1468875960.jpg" />
