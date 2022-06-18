@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bounty Hunter</td>
+<td>Queen Charlotte</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the spirits into a shaker as well as the pineapple juice, strain into a Margarita glass. Top with Prosecco and garnish with Blueberries.</td>
+<td>Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t8bgxl1596018175.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" />
