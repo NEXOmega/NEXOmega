@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Strawberry Daiquiri</td>
+<td>Pornstar Martini</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+<td>Straight: Pour all ingredients into mixing glass with ice cubes. Shake well. Strain in chilled martini cocktail glass. Cut passion fruit in half and use as garnish. Pour prosecco into a chilled shot glass and serve alongside the martini.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg" />
