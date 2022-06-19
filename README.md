@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Hemingway Special</td>
+<td>Autodafé</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a shaker with ice. Shake.</td>
+<td>Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7dkf0i1487602928.jpg" />
