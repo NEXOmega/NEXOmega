@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Red Snapper</td>
+<td>Amaretto Rose</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>One shot each, shake n shoot</td>
+<td>Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3jm41q1493069578.jpg" />
