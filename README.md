@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Boomerang</td>
+<td>Alice Cocktail</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.</td>
+<td>Shake well, strain into a large cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3m6yz81504389551.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg" />
