@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tuxedo Cocktail</td>
+<td>A Piece of Ass</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.</td>
+<td>Put ice in glass. Pour in shots. Fill with Sour Mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4u0nbl1504352551.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" />
