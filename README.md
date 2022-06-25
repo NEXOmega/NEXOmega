@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Auburn Headbanger</td>
+<td>Kurant Tea</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!</td>
+<td>Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vw7iv91493067320.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" />
