@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tequila Fizz</td>
+<td>Kioki Coffee</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
+<td>Stir. Add whipped cream to the top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2bcase1504889637.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg" />
