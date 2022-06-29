@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Porto flip</td>
+<td>Brandy Flip</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.</td>
+<td>In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg" />
