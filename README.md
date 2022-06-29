@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Orangeade</td>
+<td>Citrus Coke</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Non alcoholic</td>
+<td>Soft Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.</td>
+<td>Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg" />
