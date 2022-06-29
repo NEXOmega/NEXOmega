@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Porto flip</td>
+<td>The Galah</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.</td>
+<td>Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg" />
