@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Affair</td>
+<td>Monkey Wrench</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.</td>
+<td>Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg" />
