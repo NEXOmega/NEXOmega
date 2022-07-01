@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Quick F**K</td>
+<td>Zorro</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shot glass add 1&#x2F;3 Kahlua first. Then 1&#x2F;3 Miduri, topping it off with a 1&#x2F;3 bailey&#39;s irish cream</td>
+<td>add all and pour black coffee and add whipped cream on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg" />
