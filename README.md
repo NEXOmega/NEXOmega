@@ -48,21 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Laverstoke</td>
+<td>Affair</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
-
-2) Fully fill the glass with cubed ice and stir to chill.
-
-3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
-
-4) Garnish with a snapped ginger slice and an awoken mint sprig.</td>
+<td>Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6xfj5t1517748412.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg" />
