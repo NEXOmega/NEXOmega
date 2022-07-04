@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rum Cooler</td>
+<td>Kurant Tea</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.</td>
+<td>Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" />
