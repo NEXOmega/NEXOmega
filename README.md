@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Radler</td>
+<td>Bruised Heart</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour beer into large mug, slowly add the 7-up (or Sprite).</td>
+<td>Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xz8igv1504888995.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7if5kq1503564209.jpg" />
