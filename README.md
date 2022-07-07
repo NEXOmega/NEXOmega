@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vermouth Cassis</td>
+<td>Absolut Sex</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.</td>
+<td>Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xtrvtx1472668436.jpg" />
