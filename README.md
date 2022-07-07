@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Chocolate Beverage</td>
+<td>Spiced Peach Punch</td>
 </tr>
 <tr>
-<td>Cocoa</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.</td>
+<td>Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg" />
