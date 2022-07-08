@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Allegheny</td>
+<td>Jelly Bean</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.</td>
+<td>mix equal parts in pony glass-tastes just like a jelly bean!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" />
