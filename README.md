@@ -48,15 +48,19 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>151 Florida Bushwacker</td>
+<td>Vodka Tonic</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
+<td>Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That&#39;s all, very simple: it&#39;s just the recipe for happiness!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg" />
