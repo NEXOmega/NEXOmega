@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Yellow Bird</td>
+<td>Adam &amp; Eve</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake and strain into a chilled cocktail glass</td>
+<td>Shake together all the ingredients and strain into a cold glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vfeumw1504819077.jpg" />
