@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tennesee Mud</td>
+<td>Tia-Maria</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.</td>
+<td>Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/txruqv1441245770.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg" />
