@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tia-Maria</td>
+<td>A.D.M. (After Dinner Mint)</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.</td>
+<td>shake vigorously</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg" />
