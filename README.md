@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandon and Will&#39;s Coke Float</td>
+<td>Grasshopper</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker&#39;s Mark. Then, pour in coke. Gently stir and enjoy.</td>
+<td>Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg" />
