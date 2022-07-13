@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Citrus Coke</td>
+<td>Alaska Cocktail</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
+<td>Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wsyryt1483387720.jpg" />
