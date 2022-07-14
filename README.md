@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oreo Mudslide</td>
+<td>The Last Word</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend Vodka, Kahlua, Bailey&#39;s, ice-cream and the Oreo well in a blender. Pour into a large frosted glass. Garnish with whipped cream and a cherry.</td>
+<td>Shake with ice and strain into a cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpwwut1468925017.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg" />
