@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutly Screwed Up</td>
+<td>Kool First Aid</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
+<td>Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg" />
