@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Addison Special</td>
+<td>Cherry Electric Lemonade</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.</td>
+<td>Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" />
