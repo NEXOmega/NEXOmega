@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Cider Punch</td>
+<td>Space Odyssey</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Optional alcohol</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.</td>
+<td>Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg" />
