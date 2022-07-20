@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Russian</td>
+<td>Apple Grande</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix it as a ordinary drink .</td>
+<td>Chill both ingredients!! Mix in a tumbler and enjoy!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg" />
