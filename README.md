@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>50&#x2F;50</td>
+<td>Abbey Martini</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.</td>
+<td>Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwpyvr1461919316.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg" />
