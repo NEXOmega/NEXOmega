@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Furlong Too Late</td>
+<td>Banana Cream Pi</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
+<td>Serve over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/m5p67n1582474609.jpg" />
