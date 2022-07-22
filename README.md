@@ -48,19 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Tonic</td>
+<td>Mississippi Planters Punch</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Wash and cut 1 wedge and 1 slice of lime or lemon.
-Fill a tumbler with fresh ice.
-Pour the desired dose of vodka and top up with the tonic.
-Squeeze the lime wedge into the glass and decorate with the slice.
-That&#39;s all, very simple: it&#39;s just the recipe for happiness!</td>
+<td>Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/urpyqs1439907531.jpg" />
