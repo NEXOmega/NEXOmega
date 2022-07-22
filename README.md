@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mississippi Planters Punch</td>
+<td>Amaretto Stone Sour Alternative</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.</td>
+<td>Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/urpyqs1439907531.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg" />
