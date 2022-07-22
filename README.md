@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cafe Savoy</td>
+<td>Russian Spring Punch</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
+<td>Pour the ingredients into an highball glass, top with Sparkling wine.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" />
