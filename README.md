@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Autodafé</td>
+<td>Cafe Savoy</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.</td>
+<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7dkf0i1487602928.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
