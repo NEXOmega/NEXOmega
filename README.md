@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zambeer</td>
+<td>Jamaica Kiss</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix sambuca with rootbeer and stir. Add ice</td>
+<td>Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/urpvvv1441249549.jpg" />
