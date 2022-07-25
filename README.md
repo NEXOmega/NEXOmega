@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brainteaser</td>
+<td>Mudslinger</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
+<td>Add all contents to a large jug or punch bowl. Stir well!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg" />
