@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jelly Bean</td>
+<td>Brainteaser</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>mix equal parts in pony glass-tastes just like a jelly bean!</td>
+<td>layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" />
