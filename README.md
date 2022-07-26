@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mulled Wine</td>
+<td>69 Special</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.</td>
+<td>Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg" />
