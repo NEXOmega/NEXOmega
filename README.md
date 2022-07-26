@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Champagne Cocktail</td>
+<td>Shot-gun</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.</td>
+<td>Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t5pv461606773026.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" />
