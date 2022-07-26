@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A.D.M. (After Dinner Mint)</td>
+<td>Whitecap Margarita</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>shake vigorously</td>
+<td>Place all ingredients in a blender and blend until smooth. This makes one drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg" />
