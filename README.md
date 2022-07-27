@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>After Supper Cocktail</td>
+<td>Kool-Aid Shot</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Pour into a large glass with ice and stir. Add a little cranberry juice to taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fegm621503564966.jpg" />
