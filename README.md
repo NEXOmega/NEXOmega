@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>1-900-FUK-MEUP</td>
+<td>After Supper Cocktail</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" />
