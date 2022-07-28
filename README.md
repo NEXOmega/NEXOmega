@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rusty Nail</td>
+<td>Bruised Heart</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
+<td>Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7if5kq1503564209.jpg" />
