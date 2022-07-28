@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bruised Heart</td>
+<td>Absolut Evergreen</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass</td>
+<td>Mix, pour over ice and top up with Bitter Lemon.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7if5kq1503564209.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
