@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Negroni</td>
+<td>Autumn Garibaldi</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir into glass over ice, garnish and serve.</td>
+<td>Pour all ingredients into a glass over ice and stir with a bar spoon. Garnish with some orange slices.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ne7re71604179012.jpg" />
