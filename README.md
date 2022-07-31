@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Veteran</td>
+<td>B-52</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Layer ingredients into a shot glass. Serve with a stirrer.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" />
