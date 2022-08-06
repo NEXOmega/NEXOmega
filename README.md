@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandy Alexander</td>
+<td>Absolutly Screwed Up</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
+<td>Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mlyk1i1606772340.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" />
