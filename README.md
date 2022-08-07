@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Sangria</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg" />
