@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sol Y Sombra</td>
+<td>Royal Gin Fizz</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you&#39;ll understand why. Thanks, Kirby.)</td>
+<td>Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pe1x1c1504735672.jpg" />
