@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Royal Gin Fizz</td>
+<td>Cream Soda</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
+<td>Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pe1x1c1504735672.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg" />
