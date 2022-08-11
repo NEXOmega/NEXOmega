@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Espresso Martini</td>
+<td>Jam Donut</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass</td>
+<td>Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg" />
