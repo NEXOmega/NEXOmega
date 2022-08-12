@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>English Highball</td>
+<td>Raspberry Cooler</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
+<td>Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/suqyyx1441254346.jpg" />
