@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jam Donut</td>
+<td>Ipamena</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.</td>
+<td>Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg" />
