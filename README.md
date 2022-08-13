@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kentucky Colonel</td>
+<td>Addison</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.</td>
+<td>Shake together all the ingredients and strain into a cold glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg" />
