@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>English Highball</td>
+<td>Danbooka</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
+<td>pour it in and mix it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg" />
