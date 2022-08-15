@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Butter Baby</td>
+<td>Old Fashioned</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
+<td>Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.
+Fill the glass with ice cubes and add whiskey.
+
+Garnish with orange twist, and a cocktail cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg" />
