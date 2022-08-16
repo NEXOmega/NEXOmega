@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dark and Stormy</td>
+<td>Bob Marley</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.</td>
+<td>Layer in a 2 oz shot glass or pony glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg" />
