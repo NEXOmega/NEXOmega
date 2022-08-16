@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A1</td>
+<td>Dark and Stormy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
+<td>In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg" />
