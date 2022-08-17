@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Casa Blanca</td>
+<td>Danbooka</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>pour it in and mix it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg" />
