@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Adonis Cocktail</td>
+<td>Veteran</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
+<td>Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg" />
