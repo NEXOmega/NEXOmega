@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Martini</td>
+<td>Blue Lagoon</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
+<td>Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg" />
