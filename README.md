@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandy Alexander</td>
+<td>Royal Bitch</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
+<td>Into a shot glass layer the Crown Royal on top of the Frangelico.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mlyk1i1606772340.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg" />
