@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blue Lagoon</td>
+<td>Strawberry Lemonade</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.</td>
+<td>Throw everything into a blender and mix until fairly smooth. Serve over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg" />
