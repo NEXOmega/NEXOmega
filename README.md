@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Royal Fizz</td>
+<td>Brandy Alexander</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.</td>
+<td>Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mlyk1i1606772340.jpg" />
