@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Strawberry Lemonade</td>
+<td>Royal Fizz</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and mix until fairly smooth. Serve over ice.</td>
+<td>Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg" />
