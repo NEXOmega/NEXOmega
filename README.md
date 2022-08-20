@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Splash of Nash</td>
+<td>Boozy Snickers Milkshake</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Drop shot glass with banana &amp; melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
+<td>Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg" />
