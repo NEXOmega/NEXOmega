@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kioki Coffee</td>
+<td>Thai Iced Tea</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir. Add whipped cream to the top.</td>
+<td>Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg" />
