@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Evergreen</td>
+<td></td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Mix, pour over ice and top up with Bitter Lemon.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
+<img src="" />
