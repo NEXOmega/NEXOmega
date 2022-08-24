@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Afterglow</td>
+<td>French Negroni</td>
 </tr>
 <tr>
 <td>Cocktail</td>
-<td>Non alcoholic</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix. Serve over ice.</td>
+<td>Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg" />
