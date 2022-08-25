@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Halloween Punch</td>
+<td>Gluehwein</td>
 </tr>
 <tr>
 <td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Tip the cherry juice, orange peel, chilli, cinnamon sticks, cloves and ginger into a large saucepan. Simmer for 5 mins, then turn off the heat. Leave to cool, then chill for at least 4 hrs, or up to 2 days – the longer you leave it the more intense the flavours. If serving to young children, take the chilli out after a few hours.
-
-When you’re ready to serve, pour the juice into a jug. Serve in glass bottles or glasses and pop a straw in each. If you&#39;re adding vodka, do so at this stage. Dangle a fangs sweet from each glass.</td>
+<td>Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7hcgyj1571687671.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vuxwvt1468875418.jpg" />
