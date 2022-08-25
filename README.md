@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Stone Sour</td>
+<td>Strawberry Lemonade</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
+<td>Throw everything into a blender and mix until fairly smooth. Serve over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg" />
