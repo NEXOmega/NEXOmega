@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pure Passion</td>
+<td>Gin Daisy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg" />
