@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tequila Slammer</td>
+<td></td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Mix carefully to avoid releasing the dissolved CO2.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" />
+<img src="" />
