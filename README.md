@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aztec Punch</td>
+<td>Creme de Menthe</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don&#39;t over do it.</td>
+<td>Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yxswtp1441253918.jpg" />
