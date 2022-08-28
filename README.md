@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Creme de Menthe</td>
+<td>Adam Sunrise</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.</td>
+<td>Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1&#x2F;2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yxswtp1441253918.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg" />
