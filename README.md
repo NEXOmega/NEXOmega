@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sweet Tooth</td>
+<td>Royal Flush</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
+<td>Pour all the ingredients into tumbler over ice. Strain into glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" />
