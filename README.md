@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin and Soda</td>
+<td>Sweet Tooth</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
-Stir well.
-Garnish with the lime wedge.</td>
+<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
