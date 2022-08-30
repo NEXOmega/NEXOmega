@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Old Pal</td>
+<td>Cranberry Punch</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Chill cocktail glass. Add ingredients to a mixing glass, and fill 2&#x2F;3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.</td>
+<td>Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg" />
