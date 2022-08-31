@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Spiking coffee</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Coffee &#x2F; Tea</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg" />
