@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Sour</td>
+<td>Surf City Lifesaver</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake and strain. Garnish with a cherry and an orange slice.</td>
+<td>Lots of ice and soda top up in tall glass with cherry and a grin.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xnzc541493070211.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2rzfer1487602699.jpg" />
