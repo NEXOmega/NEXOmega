@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sweet Bananas</td>
+<td>Mulled Wine</td>
 </tr>
 <tr>
-<td>Shake</td>
-<td>Non alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+<td>Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sxpcj71487603345.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" />
