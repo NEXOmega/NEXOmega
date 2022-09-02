@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Lemon</td>
+<td>Pink Panty Pulldowns</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
+<td>Shake well</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg" />
