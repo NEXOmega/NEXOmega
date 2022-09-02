@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pink Panty Pulldowns</td>
+<td>Kioki Coffee</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake well</td>
+<td>Stir. Add whipped cream to the top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg" />
