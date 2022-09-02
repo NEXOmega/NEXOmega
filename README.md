@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Allegheny</td>
+<td>Lassi - Mango</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.</td>
+<td>Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1bw6sd1487603816.jpg" />
