@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Caipirinha</td>
+<td>Winter Rita</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.</td>
+<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
