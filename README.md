@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Turf Cocktail</td>
+<td>Horse&#39;s Neck</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.</td>
+<td>Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/utypqq1441554367.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg" />
