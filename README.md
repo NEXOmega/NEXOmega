@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Adios Amigos Cocktail</td>
+<td>Amaretto Sunrise</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake together all the ingredients and strain into a cold glass.</td>
+<td>Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8nk2mp1504819893.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg" />
