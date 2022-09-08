@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Shark Attack</td>
+<td>Egg Nog #4</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1&#x2F;3 cans of water do so. Mix into pitcher. Add 1 1&#x2F;2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!</td>
+<td>In a small mixer bowl beat egg yolks till blended. Gradually add 1&#x2F;4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1&#x2F;4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uv96zr1504793256.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg" />
