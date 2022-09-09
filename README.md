@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Philosopher</td>
+<td>Cosmopolitan Martini</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
+<td>Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" />
