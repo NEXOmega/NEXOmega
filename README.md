@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cosmopolitan Martini</td>
+<td>Champagne Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
+<td>Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/t5pv461606773026.jpg" />
