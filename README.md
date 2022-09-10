@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>White Russian</td>
+<td>Zimadori Zinger</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.</td>
+<td>Pour Zima in a collins glass over ice and then pour the shot of Midori. Don&#39;t stir. Garnish with a cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg" />
