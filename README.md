@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Moscow Mule</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg" />
