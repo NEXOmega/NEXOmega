@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Moscow Mule</td>
+<td>Winter Rita</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.</td>
+<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
