@@ -48,15 +48,28 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Black and Brown</td>
+<td>Frosé</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.</td>
+<td>Step 1
+Pour rosé into a 13x9&quot; pan and freeze until almost solid (it won&#39;t completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg" />
