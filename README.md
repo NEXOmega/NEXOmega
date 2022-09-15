@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka And Tonic</td>
+<td>Mimosa</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.</td>
+<td>Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" />
