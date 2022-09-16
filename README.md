@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin And Tonic</td>
+<td></td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/z0omyp1582480573.jpg" />
+<img src="" />
