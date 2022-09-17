@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>151 Florida Bushwacker</td>
+<td>Amaretto Shake</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
+<td>Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg" />
