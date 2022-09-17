@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Campari Beer</td>
+<td></td>
 </tr>
 <tr>
-<td>Beer</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Use a 15 oz glass. Add Campari first. Fill with beer.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg" />
+<img src="" />
