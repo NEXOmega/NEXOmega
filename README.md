@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cranberry Punch</td>
+<td>Amaretto Liqueur</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Non alcoholic</td>
+<td>Homemade Liqueur</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
+<td>Combine sugar and 3&#x2F;4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1&#x2F;2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/swqxuv1472719649.jpg" />
