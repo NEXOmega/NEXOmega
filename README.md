@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - Sweet</td>
+<td>Dark Caipirinha</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
+<td>Muddle the sugar into the lime wedges in an old-fashioned glass.
+Fill the glass with ice cubes.
+Pour the cachaca into the glass.
+Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg" />
