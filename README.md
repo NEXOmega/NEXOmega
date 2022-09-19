@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Microwave Hot Cocoa</td>
+<td>Zimadori Zinger</td>
 </tr>
 <tr>
-<td>Cocoa</td>
-<td>Non alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1&#x2F;2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1&#x2F;2 to 2 minutes or until hot. Stir in vanilla, blend well.</td>
+<td>Pour Zima in a collins glass over ice and then pour the shot of Midori. Don&#39;t stir. Garnish with a cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8y4x5f1487603151.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg" />
