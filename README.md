@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dark Caipirinha</td>
+<td>Casino</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle the sugar into the lime wedges in an old-fashioned glass.
-Fill the glass with ice cubes.
-Pour the cachaca into the glass.
-Stir well.</td>
+<td>Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1mvjxg1504348579.jpg" />
