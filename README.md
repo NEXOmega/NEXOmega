@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>City Slicker</td>
+<td>New York Lemonade</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+<td>Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dazdlg1504366949.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg" />
