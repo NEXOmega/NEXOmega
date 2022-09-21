@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Quarter Deck Cocktail</td>
+<td>Black and Brown</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qrwvps1478963017.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg" />
