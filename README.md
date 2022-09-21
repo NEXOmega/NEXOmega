@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blind Russian</td>
+<td>Texas Rattlesnake</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice. Add all liquers. Add milk. shake.</td>
+<td>Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wxuqvr1472720408.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg" />
