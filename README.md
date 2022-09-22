@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Basil Smash</td>
+<td>Orange Push-up</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
-Filter and serve in a tumbler with ice</td>
+<td>Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mgf0y91503565781.jpg" />
