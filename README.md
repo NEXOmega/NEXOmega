@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>57 Chevy with a White License Plate</td>
+<td>Gin Sour</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/noxp7e1606769224.jpg" />
