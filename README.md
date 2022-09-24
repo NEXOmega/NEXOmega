@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutely Cranberry Smash</td>
+<td>Caribbean Boilermaker</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir ingredients together. Serve over ice.</td>
+<td>Pour the Corona into an 18oz beer glass pour the rum into the beer.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg" />
