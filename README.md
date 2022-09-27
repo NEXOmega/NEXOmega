@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Rum Cobbler</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5vh9ld1504390683.jpg" />
