@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rum Cobbler</td>
+<td>151 Florida Bushwacker</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices.</td>
+<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/5vh9ld1504390683.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
