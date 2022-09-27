@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>151 Florida Bushwacker</td>
+<td>Gin Squirt</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
+<td>Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrbhz61504883702.jpg" />
