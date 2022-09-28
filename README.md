@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snakebite and Black</td>
+<td>Funk and Soul</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put blackcurrant squash in first up to about 1cm in glass. Then add the larger and cider one after another.</td>
+<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
