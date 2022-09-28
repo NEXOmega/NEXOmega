@@ -48,7 +48,7 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Boston Sidecar</td>
+<td>Queen Bee</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
@@ -59,4 +59,4 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qzs5d11504365962.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg" />
