@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Queen Bee</td>
+<td>Snakebite and Black</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Put blackcurrant squash in first up to about 1cm in glass. Then add the larger and cider one after another.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" />
