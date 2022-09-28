@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Orange Push-up</td>
+<td>747 Drink</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!</td>
+<td>Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mgf0y91503565781.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg" />
