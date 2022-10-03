@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Homemade Kahlua</td>
+<td>Orange Whip</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.</td>
+<td>Pour ingredients over ice and stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg" />
