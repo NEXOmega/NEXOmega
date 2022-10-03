@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Negroni</td>
+<td>Kool First Aid</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir into glass over ice, garnish and serve.</td>
+<td>Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg" />
