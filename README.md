@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Veteran</td>
+<td>Harvey Wallbanger</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg" />
