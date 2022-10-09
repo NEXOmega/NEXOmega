@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut limousine</td>
+<td>Port Wine Cocktail</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges.</td>
+<td>Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ssqpyw1472719844.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg" />
