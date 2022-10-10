@@ -48,17 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rosemary Blue</td>
+<td>Bombay Cassis</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
-2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
-3) Gently fold with a bar spoon to mix.</td>
+<td>Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
+Fill the glass with good quality cubed ice.
+Top up with chilled and freshly opened Fever-Tree Ginger Beer.
+Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg" />
