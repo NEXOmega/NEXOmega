@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Smut</td>
+<td>Gin Basil Smash</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw it all together and serve real cold.</td>
+<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
