@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Green Goblin</td>
+<td>Smut</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cider First, Lager then Curacao</td>
+<td>Throw it all together and serve real cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" />
