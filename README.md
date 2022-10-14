@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Shot-gun</td>
+<td>Castillian Hot Chocolate</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Cocoa</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.</td>
+<td>Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3nbu4a1487603196.jpg" />
