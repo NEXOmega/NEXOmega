@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Black Russian</td>
+<td>Apello</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other&#x2F;Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.</td>
+<td>Stirr. Grnish with maraschino cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" />
