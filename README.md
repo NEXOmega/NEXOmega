@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apello</td>
+<td>Banana Milk Shake</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
+<td>Shake</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stirr. Grnish with maraschino cherry.</td>
+<td>Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" />
