@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutly Screwed Up</td>
+<td>Chocolate Black Russian</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
+<td>Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yyvywx1472720879.jpg" />
