@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Russian Spring Punch</td>
+<td>Egg Nog - Healthy</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Pour the ingredients into an highball glass, top with Sparkling wine.</td>
+<td>Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxuppv1468875308.jpg" />
