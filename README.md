@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sol Y Sombra</td>
+<td>Diesel</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you&#39;ll understand why. Thanks, Kirby.)</td>
+<td>Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" />
