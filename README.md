@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bora Bora</td>
+<td>Banana Strawberry Shake</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.</td>
+<td>Blend all together in a blender until smooth.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg" />
