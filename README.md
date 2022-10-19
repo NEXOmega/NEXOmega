@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sea breeze</td>
+<td>Gin Toddy</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.</td>
+<td>Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jxstwf1582582101.jpg" />
