@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Karate</td>
+<td>Bleeding Surgeon</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Non alcoholic</td>
+<td>Soft Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+<td>Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" />
