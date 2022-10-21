@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pysch Vitamin Light</td>
+<td>Bubble Gum</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice.</td>
+<td>Layer in order into a shot glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" />
