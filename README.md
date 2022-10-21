@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bubble Gum</td>
+<td>Royal Bitch</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Layer in order into a shot glass.</td>
+<td>Into a shot glass layer the Crown Royal on top of the Frangelico.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg" />
