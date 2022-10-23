@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>747 Drink</td>
+<td>Popped cherry</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill a Collins glass with ice.
-Pour in vodka, lime cordial, and cranberry juice.
-Fill up with Sprite.
-Garnish with a Lime wheel or some cranberries</td>
+<td>Served over ice in a tall glass with a popped cherry (can add more popped cherries if in the mood)!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxvrwv1473344825.jpg" />
