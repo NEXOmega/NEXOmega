@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spiking coffee</td>
+<td>Iced Coffee</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
+<td>Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg" />
