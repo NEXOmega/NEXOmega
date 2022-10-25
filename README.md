@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aviation</td>
+<td>Apple Karate</td>
 </tr>
 <tr>
 <td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg" />
