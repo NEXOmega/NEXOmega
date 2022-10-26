@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Last Word</td>
+<td>A.D.M. (After Dinner Mint)</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice and strain into a cocktail glass.</td>
+<td>shake vigorously</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg" />
