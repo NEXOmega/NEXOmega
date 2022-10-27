@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Strawberry Shake</td>
+<td>Orange Rosemary Collins</td>
 </tr>
 <tr>
-<td>Shake</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend all together in a blender until smooth.</td>
+<td>Add the spirits to the bottom of the glass and top equally with the mixer drinks. Garnish with orange slices inside the glass as well as some rosemary on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mokcas1604179977.jpg" />
