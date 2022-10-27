@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Stinger</td>
+<td>Absolutely Fabulous</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.</td>
+<td>Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg" />
