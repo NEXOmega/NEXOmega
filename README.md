@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Coffee-Vodka</td>
+<td>Chocolate Monkey</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won&#39;t evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.</td>
+<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
