@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mint Julep</td>
+<td>Sidecar</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.</td>
+<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
