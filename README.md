@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bourbon Sling</td>
+<td>Sidecar</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.</td>
+<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3s36ql1504366260.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
