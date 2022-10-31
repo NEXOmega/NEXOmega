@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Curdling Cow</td>
+<td>Quentin</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
+<td>In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg" />
