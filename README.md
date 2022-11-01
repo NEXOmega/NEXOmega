@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Belgian Blue</td>
+<td>Bermuda Highball</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just pour all ingredients in the glass and stir...</td>
+<td>Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jylbrq1582580066.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrvtww1441206528.jpg" />
