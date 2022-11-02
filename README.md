@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jack&#39;s Vanilla Coke</td>
+<td>1-900-FUK-MEUP</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
+<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
