@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>1-900-FUK-MEUP</td>
+<td>Midnight Mint</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
+<td>If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg" />
