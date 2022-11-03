@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Van Vleet</td>
+<td>Black Forest Shake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
+<td>In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fgq2bl1492975771.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" />
