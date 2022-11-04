@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tuxedo Cocktail</td>
+<td>Rosemary Blue</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.</td>
+<td>1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
+2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
+3) Gently fold with a bar spoon to mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4u0nbl1504352551.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg" />
