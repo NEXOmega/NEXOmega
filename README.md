@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Summertime</td>
+<td>Orange Rosemary Collins</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.</td>
+<td>Add the spirits to the bottom of the glass and top equally with the mixer drinks. Garnish with orange slices inside the glass as well as some rosemary on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/trpxxs1472669662.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mokcas1604179977.jpg" />
