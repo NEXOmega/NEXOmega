@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zenmeister</td>
+<td>151 Florida Bushwacker</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together and enjoy</td>
+<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
