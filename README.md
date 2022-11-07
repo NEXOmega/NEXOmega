@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Old Fashioned</td>
+<td>Russian Spring Punch</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.
-Fill the glass with ice cubes and add whiskey.
-
-Garnish with orange twist, and a cocktail cherry.</td>
+<td>Pour the ingredients into an highball glass, top with Sparkling wine.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" />
