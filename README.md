@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Port Wine Cocktail</td>
+<td>Zenmeister</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Mix together and enjoy</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg" />
