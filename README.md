@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dry Martini</td>
+<td>3-Mile Long Island Iced Tea</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
+<td>Fill 14oz glass with ice and alcohol. Fill 2&#x2F;3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" />
