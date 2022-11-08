@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Queen Charlotte</td>
+<td>English Highball</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.</td>
+<td>Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg" />
