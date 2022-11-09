@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Sour</td>
+<td>Cafe Savoy</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake and strain. Garnish with a cherry and an orange slice.</td>
+<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xnzc541493070211.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
