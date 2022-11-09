@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blue Lagoon</td>
+<td>Swedish Coffee</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.</td>
+<td>Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg" />
