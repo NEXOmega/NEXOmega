@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grape lemon pineapple Smoothie</td>
+<td>Quentin</td>
 </tr>
 <tr>
-<td>Other&#x2F;Unknown</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and liquify.</td>
+<td>In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg" />
