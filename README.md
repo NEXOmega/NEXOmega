@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sherry Flip</td>
+<td>Black Russian</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
+<td>Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg" />
