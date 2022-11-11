@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Martini</td>
+<td>Wine Cooler</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
-
-For this recipe, you&#39;ll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It&#39;s a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.</td>
+<td>Mix wine and soft drink. Pour into glass. Add ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg" />
