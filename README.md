@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Corpse Reviver</td>
+<td>Garibaldi Negroni</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake, strain, straight up, cocktail glass rinsed with absinthe
-</td>
+<td>Mix together in a shaker and garnish with a simple orange slice. Fill your vitamin C and cocktail fix at the same time!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kb4bjg1604179771.jpg" />
