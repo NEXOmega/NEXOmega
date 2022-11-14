@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Paradise</td>
+<td>Between The Sheets</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake together over ice. Strain into cocktail glass and serve chilled.</td>
+<td>Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/of1rj41504348346.jpg" />
