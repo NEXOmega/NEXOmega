@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Swedish Coffee</td>
+<td>Cherry Electric Lemonade</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)</td>
+<td>Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" />
