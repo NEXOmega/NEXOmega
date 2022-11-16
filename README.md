@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cherry Electric Lemonade</td>
+<td>Jack&#39;s Vanilla Coke</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Other&#x2F;Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.</td>
+<td>After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg" />
