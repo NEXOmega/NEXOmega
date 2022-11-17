@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Waikiki Beachcomber</td>
+<td>747</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ysuqus1441208583.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg" />
