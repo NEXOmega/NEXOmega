@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oatmeal Cookie</td>
+<td>The Evil Blue Thing</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix it all together.
-It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.</td>
+<td>Pour ingredients into glass, and drop in a blue whale! The blue whale isn&#39;t really necessary, but it makes the drink more &quot;fun&quot;.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" />
