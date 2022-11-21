@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Cream Pi</td>
+<td>Sex on the Beach</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Serve over ice.</td>
+<td>Build all ingredients in a highball glass filled with ice. Garnish with orange slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/m5p67n1582474609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fi67641668420787.jpg" />
