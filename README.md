@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Pineapple Paloma</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Rub the rim of each glass with lime slice and dip into salt.
+Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
+Give it a quick stir.
+Garnish with fresh pineapple or lime.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pg8iw31593351601.jpg" />
