@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Applejack</td>
+<td>Gin and Soda</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients into mixing glass, chill and strain into cocktail glass</td>
+<td>Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
+Stir well.
+Garnish with the lime wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sutyqp1479209062.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" />
