@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rose</td>
+<td>Dark Caipirinha</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.</td>
+<td>Muddle the sugar into the lime wedges in an old-fashioned glass.
+Fill the glass with ice cubes.
+Pour the cachaca into the glass.
+Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8kxbvq1504371462.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg" />
