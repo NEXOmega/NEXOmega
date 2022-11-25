@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dark Caipirinha</td>
+<td>B-53</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle the sugar into the lime wedges in an old-fashioned glass.
-Fill the glass with ice cubes.
-Pour the cachaca into the glass.
-Stir well.</td>
+<td>Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" />
