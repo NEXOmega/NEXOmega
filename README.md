@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Imperial Cocktail</td>
+<td>Butter Baby</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice and strain into cocktail glass.</td>
+<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
