@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Screwdriver</td>
+<td>Malibu Twister</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in a highball glass with ice. Garnish and serve.</td>
+<td>Add rum &amp; trister then, add cranberry jucie,stir</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2dwae41504885321.jpg" />
