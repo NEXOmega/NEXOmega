@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Scottish Highland Liqueur</td>
+<td>Amaretto Sweet &amp; Sour</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.</td>
+<td>Fill the blender with 3&#x2F;4 ice. Add sweet &amp; sour mix to the top of the ice. Add about 1&quot; of pineapple juice, 1&#x2F;2&quot; of melon liqeur, and 1&#x2F;2 to 1&#x2F;4&quot; of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/upqvvp1441253441.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg" />
