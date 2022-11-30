@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Winter Rita</td>
+<td>Gin Basil Smash</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
+<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
