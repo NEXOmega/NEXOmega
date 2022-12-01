@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Slippery Nipple</td>
+<td>Alice Cocktail</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+<td>Shake well, strain into a large cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg" />
