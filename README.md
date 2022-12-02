@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>252</td>
+<td>Zippy&#39;s Revenge</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add both ingredients to shot glass, shoot, and get drunk quick</td>
+<td>Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg" />
