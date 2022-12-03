@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Chocolate Milk</td>
+<td>Bombay Cassis</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!</td>
+<td>Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
+Fill the glass with good quality cubed ice.
+Top up with chilled and freshly opened Fever-Tree Ginger Beer.
+Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg" />
