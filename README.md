@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Frisco Sour</td>
+<td>Absolut Stress #2</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.</td>
+<td>Mix well. Garnish with Orange and Cherry. Enjoy</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/acuvjz1582482022.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg" />
