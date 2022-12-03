@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bombay Cassis</td>
+<td>Sloe Gin Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
-Fill the glass with good quality cubed ice.
-Top up with chilled and freshly opened Fever-Tree Ginger Beer.
-Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.</td>
+<td>Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/d7mo481504889531.jpg" />
