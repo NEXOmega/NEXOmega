@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Manhattan</td>
+<td>Chocolate Milk</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stirred over ice, strained into a chilled glass, garnished, and served up.</td>
+<td>Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg" />
