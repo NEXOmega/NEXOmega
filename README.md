@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snake Bite (UK)</td>
+<td>Rusty Nail</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into a pint glass. Drink. Fall over.</td>
+<td>Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg" />
