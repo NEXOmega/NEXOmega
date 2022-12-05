@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cuba Libre</td>
+<td>French 75</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.</td>
+<td>Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hrxfbl1606773109.jpg" />
