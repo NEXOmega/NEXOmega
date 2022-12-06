@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blackthorn</td>
+<td>Amaretto Shake</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+<td>Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dgj92f1616098672.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg" />
