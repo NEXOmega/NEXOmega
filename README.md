@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Splash of Nash</td>
+<td>Talos Coffee</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Drop shot glass with banana &amp; melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
+<td>Add your GM and then add your coffee.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg" />
