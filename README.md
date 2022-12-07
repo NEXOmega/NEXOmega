@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flying Dutchman</td>
+<td>Rum Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
+<td>In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bylfi21504886323.jpg" />
