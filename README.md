@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Raspberry Cooler</td>
+<td>Texas Sling</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well.</td>
+<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/suqyyx1441254346.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
