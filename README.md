@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>AT&amp;T</td>
+<td>Vodka Fizz</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Vodka and Gin over ice, add Tonic and Stir</td>
+<td>Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg" />
