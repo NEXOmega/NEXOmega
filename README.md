@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Harvey Wallbanger</td>
+<td>Ruby Tuesday</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.</td>
+<td>Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg" />
