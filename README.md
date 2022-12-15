@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Sunset</td>
+<td>Gin Daisy</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients in bartender&#39;s mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg" />
