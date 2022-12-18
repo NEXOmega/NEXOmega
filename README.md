@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Long Island Tea</td>
+<td>Cream Soda</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
+<td>Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg" />
