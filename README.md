@@ -48,21 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bellini Martini</td>
+<td>Foxy Lady</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.</td>
+<td>Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg" />
