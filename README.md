@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bruce&#39;s Puce</td>
+<td>Long Island Tea</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , the Kahlua , then the Bailey&#39;s Irish cream in equal portions. It goes down really smooth ,and you don&#39;t even need a chaser. It tastes just like chocolate milk.(Really!)</td>
+<td>Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/svsvqv1473344558.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg" />
