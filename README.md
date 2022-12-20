@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Port And Starboard</td>
+<td>Tom Collins</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.</td>
+<td>In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg" />
