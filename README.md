@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Lemon</td>
+<td>Abbey Cocktail</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
+<td>Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mr30ob1582479875.jpg" />
