@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Philosopher</td>
+<td>Martinez Cocktail</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
+<td>Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" />
