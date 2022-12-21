@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Halloween Punch</td>
+<td>Amaretto Sunrise</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Tip the cherry juice, orange peel, chilli, cinnamon sticks, cloves and ginger into a large saucepan. Simmer for 5 mins, then turn off the heat. Leave to cool, then chill for at least 4 hrs, or up to 2 days – the longer you leave it the more intense the flavours. If serving to young children, take the chilli out after a few hours.
-
-When you’re ready to serve, pour the juice into a jug. Serve in glass bottles or glasses and pop a straw in each. If you&#39;re adding vodka, do so at this stage. Dangle a fangs sweet from each glass.</td>
+<td>Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7hcgyj1571687671.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg" />
