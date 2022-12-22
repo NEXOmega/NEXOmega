@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Godmother</td>
+<td>Ice Pick</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and amaretto into an old-fashioned glass over ice and serve.</td>
+<td>Put Vodka in glass fill with iced tea. Stir in lemon to taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/quksqg1582582597.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypsrqp1469091726.jpg" />
