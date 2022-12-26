@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>B-53</td>
+<td>Jack Rose Cocktail</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uuqqrv1439907068.jpg" />
