@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Slime</td>
+<td>Limona Corona</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
+<td>Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwqrsw1441248662.jpg" />
