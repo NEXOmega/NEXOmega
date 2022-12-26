@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Limona Corona</td>
+<td>Snake Bite (UK)</td>
 </tr>
 <tr>
 <td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink.</td>
+<td>Pour ingredients into a pint glass. Drink. Fall over.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwqrsw1441248662.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" />
