@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Squirt</td>
+<td>Amaretto Sweet &amp; Sour</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.</td>
+<td>Fill the blender with 3&#x2F;4 ice. Add sweet &amp; sour mix to the top of the ice. Add about 1&quot; of pineapple juice, 1&#x2F;2&quot; of melon liqeur, and 1&#x2F;2 to 1&#x2F;4&quot; of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrbhz61504883702.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg" />
