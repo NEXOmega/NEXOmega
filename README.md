@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandy Flip</td>
+<td>Alice Cocktail</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.</td>
+<td>Shake well, strain into a large cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg" />
