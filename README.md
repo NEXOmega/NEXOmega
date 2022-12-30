@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lord And Lady</td>
+<td>Banana Cantaloupe Smoothie</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
