@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Addington</td>
+<td>Zinger</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Soft Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix both the vermouth&#39;s in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. </td>
+<td>Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iixv4l1485620014.jpg" />
