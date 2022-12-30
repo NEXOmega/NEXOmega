@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Cantaloupe Smoothie</td>
+<td>Dry Rob Roy</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
+<td>In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/typuyq1439456976.jpg" />
