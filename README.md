@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Fuzzy Asshole</td>
+<td>Tia-Maria</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.</td>
+<td>Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg" />
