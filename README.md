@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Fahrenheit 5000</td>
+<td>Fuzzy Asshole</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.</td>
+<td>fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg" />
