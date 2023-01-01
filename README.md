@@ -1,6 +1,6 @@
 <h1>Salut, c'est Valentin (NEXOmega)</h1>
 <p>
-Valentin, 20 Ans, Passioné d'Informatique et de bricollage en tout genre notamment en domotique.<br/>
+Valentin, 21 Ans, Passioné d'Informatique et de bricollage en tout genre notamment en domotique.<br/>
 J'ai commencé la programmation à l'age de 12 Ans en créant des plugins Minecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
 Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi en parralèle du JavaScript, Python ou du Rust.
 </p>
@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Slippery Nipple</td>
+<td>Dry Martini</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+<td>Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg" />
