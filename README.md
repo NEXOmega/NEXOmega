@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tennesee Mud</td>
+<td>Flying Dutchman</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.</td>
+<td>In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/txruqv1441245770.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg" />
