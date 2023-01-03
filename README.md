@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Scotch Sour</td>
+<td>Snakebite and Black</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1&#x2F;2 slice lemon, top with the cherry, and serve.</td>
+<td>Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" />
