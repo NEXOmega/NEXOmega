@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin And Tonic</td>
+<td>Auburn Headbanger</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
+<td>Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vw7iv91493067320.jpg" />
