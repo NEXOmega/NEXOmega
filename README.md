@@ -48,15 +48,19 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Van Vleet</td>
+<td>Gimlet</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
+<td>Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fgq2bl1492975771.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg" />
