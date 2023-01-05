@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Big Red</td>
+<td>Jamaica Kiss</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into 1 ounce shot glass</td>
+<td>Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/urpvvv1441249549.jpg" />
