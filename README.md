@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto And Cream</td>
+<td>Boston Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake well with cracked ice, strain contents into a cocktail glass, and serve.</td>
+<td>Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg" />
