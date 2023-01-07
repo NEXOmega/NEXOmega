@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>California Root Beer</td>
+<td>Bubble Gum</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put Kahlua and Galliano in highball glass fill with soda</td>
+<td>Layer in order into a shot glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rsxuyr1472719526.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" />
