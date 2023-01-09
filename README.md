@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mocha-Berry</td>
+<td>Jelly Bean</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>pour 6 oz. of coffee in a mug or Irish coffee cup. add coca mix and chambord, mix well and top off with whipped cream.</td>
+<td>mix equal parts in pony glass-tastes just like a jelly bean!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vtwyyx1441246448.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" />
