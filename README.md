@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sangria The  Best</td>
+<td>Sweet Bananas</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vysywu1468924264.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxpcj71487603345.jpg" />
