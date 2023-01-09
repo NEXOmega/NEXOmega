@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>57 Chevy with a White License Plate</td>
+<td>Brigadier</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir</td>
+<td>Mix ingredients in a warmed mug and stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg" />
