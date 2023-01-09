@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kool-Aid Shot</td>
+<td>57 Chevy with a White License Plate</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour into a large glass with ice and stir. Add a little cranberry juice to taste.</td>
+<td>1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fegm621503564966.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg" />
