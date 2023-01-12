@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flying Dutchman</td>
+<td>Absolut Evergreen</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
+<td>Mix, pour over ice and top up with Bitter Lemon.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
