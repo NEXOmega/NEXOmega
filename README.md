@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Avalanche</td>
+<td>Whitecap Margarita</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in highball glass over ice, shake well.</td>
+<td>Place all ingredients in a blender and blend until smooth. This makes one drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg" />
