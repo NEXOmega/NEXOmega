@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zorbatini</td>
+<td>Avalanche</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Prepare like a Martini. Garnish with a green olive.</td>
+<td>Mix in highball glass over ice, shake well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wtkqgb1485621155.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg" />
