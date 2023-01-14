@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brave Bull Shooter</td>
+<td>Foxy Lady</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Tabasco into bottom of shot glass and fill with tequila.</td>
+<td>Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yrtypx1473344625.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg" />
