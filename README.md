@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pure Passion</td>
+<td>Gin Toddy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.</td>
+<td>Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jxstwf1582582101.jpg" />
