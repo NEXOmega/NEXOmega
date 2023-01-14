@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Stone Sour</td>
+<td>Van Vleet</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake and Serve over ice</td>
+<td>Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fgq2bl1492975771.jpg" />
