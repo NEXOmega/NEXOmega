@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Paloma</td>
+<td>Bubble Gum</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir together and serve over ice.</td>
+<td>Layer in order into a shot glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" />
