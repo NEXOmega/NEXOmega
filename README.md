@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Stinger</td>
+<td>Classic Old-Fashioned</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.</td>
+<td>In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/w8cxqv1582485254.jpg" />
