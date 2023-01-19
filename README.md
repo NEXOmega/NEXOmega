@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flander&#39;s Flake-Out</td>
+<td>Kamikaze</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Bang &#39;em both in.</td>
+<td>Shake all ingredients together with ice. Strain into glass, garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sqvqrx1461866705.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg" />
