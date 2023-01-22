@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Pie with A Crust</td>
+<td>Homemade Kahlua</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.</td>
+<td>Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" />
