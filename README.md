@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>H.D.</td>
+<td>B-52</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.</td>
+<td>Layer ingredients into a shot glass. Serve with a stirrer.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/upusyu1472667977.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" />
