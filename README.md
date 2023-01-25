@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Herbal flame</td>
+<td>Captain Kidd&#39;s Punch</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
+<td>Mix all ingredients together in a shaker and strain into a collins glass. Use Caribbean dark Rum for a sweeter taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/d83spj1596017390.jpg" />
