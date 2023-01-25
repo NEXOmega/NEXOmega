@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Captain Kidd&#39;s Punch</td>
+<td>3 Wise Men</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together in a shaker and strain into a collins glass. Use Caribbean dark Rum for a sweeter taste.</td>
+<td>put them them in a glass... and slam it to tha head.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/d83spj1596017390.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wxqpyw1468877677.jpg" />
