@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Highland Fling Cocktail</td>
+<td>Herbal flame</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
+<td>Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg" />
