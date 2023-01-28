@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>National Aquarium</td>
+<td>Lemon Drop</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.</td>
+<td>Shake and strain into a chilled cocktail glass rimmed with sugar.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg" />
