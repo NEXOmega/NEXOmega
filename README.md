@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Singapore Sling</td>
+<td>Bloody Mary</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.</td>
+<td>Stirring gently, pour all ingredients into highball glass. Garnish.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7dozeg1582578095.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg" />
