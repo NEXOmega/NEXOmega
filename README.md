@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Frozen Mint Daiquiri</td>
+<td>Vodka Russian</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.</td>
+<td>Mix it as a ordinary drink .</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jrhn1q1504884469.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg" />
