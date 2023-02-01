@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Black Forest Shake</td>
+<td>Vermouth Cassis</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.</td>
+<td>Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg" />
