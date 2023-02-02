@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bijou</td>
+<td>Cranberry Punch</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir in mixing glass with ice and strain
-</td>
+<td>Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg" />
