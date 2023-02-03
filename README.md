@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Applejack</td>
+<td>Lemon Elderflower Spritzer</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients into mixing glass, chill and strain into cocktail glass</td>
+<td>Pour all ingredients over ice, stir and enjoy!
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sutyqp1479209062.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg" />
