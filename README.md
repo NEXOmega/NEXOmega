@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - Mango</td>
+<td></td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1bw6sd1487603816.jpg" />
+<img src="" />
