@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Lemon</td>
+<td>Lassi - Mango</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.</td>
+<td>Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yhzvk91643821739.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1bw6sd1487603816.jpg" />
