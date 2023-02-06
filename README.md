@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Butter Baby</td>
+<td></td>
 </tr>
 <tr>
-<td>Shake</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
+<img src="" />
