@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oatmeal Cookie</td>
+<td>Barracuda</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix it all together.
-It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.</td>
+<td>Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" />
