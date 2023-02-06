@@ -48,16 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pisco Sour</td>
+<td>Oatmeal Cookie</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
-</td>
+<td>Just mix it all together.
+It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
+
+Tastes like an oatmeal cookie.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" />
