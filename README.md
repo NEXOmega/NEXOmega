@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>1-900-FUK-MEUP</td>
+<td>Homemade Kahlua</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
+<td>Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" />
