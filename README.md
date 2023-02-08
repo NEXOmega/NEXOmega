@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pysch Vitamin Light</td>
+<td>69 Special</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
-<td>Non alcoholic</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice.</td>
+<td>Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg" />
