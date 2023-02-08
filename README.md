@@ -48,15 +48,21 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Passion Fruit Martini</td>
+<td>Bellini Martini</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.</td>
+<td>Add ice cubes to shaker.
+Add vodka.
+Add peach schnapps.
+Add peach nectar.
+Shake.
+Strain into glass.
+Add lemon twist peel.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg" />
