@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Scotch Sour</td>
+<td></td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1&#x2F;2 slice lemon, top with the cherry, and serve.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg" />
+<img src="" />
