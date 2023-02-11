@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Freddy Kruger</td>
+<td>A. J.</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>make it an ample size shot!!</td>
+<td>Shake ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tuppuq1461866798.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l74qo91582480316.jpg" />
