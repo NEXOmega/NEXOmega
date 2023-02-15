@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Caipirissima</td>
+<td>Texas Rattlesnake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Same as Caipirinha but instead of cachaca you add WHITE RUM. It&#39;s great!!!!!!!!</td>
+<td>Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg" />
