@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Martini</td>
+<td>New York Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.</td>
+<td>Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qyxrqw1439906528.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg" />
