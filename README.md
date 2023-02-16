@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Balmoral</td>
+<td>Moscow Mule</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+<td>Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg" />
