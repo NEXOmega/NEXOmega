@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Jack&#39;s Vanilla Coke</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Other &#x2F; Unknown</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg" />
