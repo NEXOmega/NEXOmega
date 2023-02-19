@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Martinez Cocktail</td>
+<td>Rum Toddy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+<td>Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/athdk71504886286.jpg" />
