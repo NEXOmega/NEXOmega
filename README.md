@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Whisky Mac</td>
+<td>Aztec Punch</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour both of the ingredients into a wine goblet with no ice.</td>
+<td>Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don&#39;t over do it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" />
