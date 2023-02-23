@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aztec Punch</td>
+<td>A Piece of Ass</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don&#39;t over do it.</td>
+<td>Put ice in glass. Pour in shots. Fill with Sour Mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" />
