@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dirty Nipple</td>
+<td>Whisky Mac</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>This is a layered shot - the Bailey&#39;s must be on top</td>
+<td>Pour both of the ingredients into a wine goblet with no ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" />
