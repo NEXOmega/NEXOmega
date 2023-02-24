@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kill the cold Smoothie</td>
+<td>Chocolate Beverage</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Cocoa</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
+<td>Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg" />
