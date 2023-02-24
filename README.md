@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tequila Slammer</td>
+<td>Bruce&#39;s Puce</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix carefully to avoid releasing the dissolved CO2.</td>
+<td>In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , the Kahlua , then the Bailey&#39;s Irish cream in equal portions. It goes down really smooth ,and you don&#39;t even need a chaser. It tastes just like chocolate milk.(Really!)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/svsvqv1473344558.jpg" />
