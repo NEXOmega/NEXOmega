@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Long Island Iced Tea</td>
+<td>Flander&#39;s Flake-Out</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.</td>
+<td>Bang &#39;em both in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sqvqrx1461866705.jpg" />
