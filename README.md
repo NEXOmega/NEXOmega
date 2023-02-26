@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Texas Rattlesnake</td>
+<td>Smut</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...</td>
+<td>Throw it all together and serve real cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" />
