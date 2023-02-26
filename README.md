@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Day at the Beach</td>
+<td>Texas Rattlesnake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.</td>
+<td>Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg" />
