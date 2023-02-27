@@ -48,15 +48,19 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Smut</td>
+<td>Vodka Tonic</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw it all together and serve real cold.</td>
+<td>Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That&#39;s all, very simple: it&#39;s just the recipe for happiness!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg" />
