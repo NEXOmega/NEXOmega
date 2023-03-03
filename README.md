@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Veteran</td>
+<td>Garibaldi Negroni</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Mix together in a shaker and garnish with a simple orange slice. Fill your vitamin C and cocktail fix at the same time!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kb4bjg1604179771.jpg" />
