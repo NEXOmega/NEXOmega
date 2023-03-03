@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Garibaldi Negroni</td>
+<td>English Highball</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together in a shaker and garnish with a simple orange slice. Fill your vitamin C and cocktail fix at the same time!</td>
+<td>Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kb4bjg1604179771.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg" />
