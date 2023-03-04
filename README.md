@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Monkey Wrench</td>
+<td>Bloody Maria</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg" />
