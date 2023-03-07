@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Downshift</td>
+<td>Nuked Hot Chocolate</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td>Cocoa</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
+<td>Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg" />
