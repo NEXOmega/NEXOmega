@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Adam Sunrise</td>
+<td>A Splash of Nash</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1&#x2F;2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
+<td>Drop shot glass with banana &amp; melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg" />
