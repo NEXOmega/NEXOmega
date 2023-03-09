@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Orange Whip</td>
+<td>Whiskey Sour</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients over ice and stir.</td>
+<td>Shake with ice. Strain into chilled glass, garnish and serve. If served &#39;On the rocks&#39;, strain ingredients into old-fashioned glass filled with ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg" />
