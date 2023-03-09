@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Highland Fling Cocktail</td>
+<td>Spiking coffee</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Coffee &#x2F; Tea</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
+<td>Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg" />
