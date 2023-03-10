@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>ACID</td>
+<td>Aquamarine</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
+<td>Shake well in a shaker with ice.
+Strain in a martini glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg" />
