@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>London Town</td>
+<td>Bible Belt</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+<td>Mix all ingredients, and pour over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6bec6v1503563675.jpg" />
