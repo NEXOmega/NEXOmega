@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Slime</td>
+<td>Addison</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
+<td>Shake together all the ingredients and strain into a cold glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg" />
