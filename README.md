@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Planter&#39;s Punch</td>
+<td>Strawberry Shivers</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, &quot;on top&quot;. Garnish with cocktail cherry and pineapple.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fdk8a31606854815.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg" />
