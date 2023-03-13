@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi Khara</td>
+<td>Sweet Tooth</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Shake</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
