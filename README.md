@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sweet Tooth</td>
+<td>Strawberry Margarita</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
+<td>Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg" />
