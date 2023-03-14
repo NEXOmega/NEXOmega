@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sweet Tooth</td>
+<td>Dirty Martini</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
+<td>Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.
+Rub the rim of a martini glass with the wedge of lemon.
+Strain the contents of the cocktail shaker into the glass and add the olive.
+A dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg" />
