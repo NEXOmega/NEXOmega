@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Cream</td>
+<td>Pisco Sour</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix scotch and milk. Add half-and-half. Add rest.</td>
+<td>Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg" />
