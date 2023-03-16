@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brainteaser</td>
+<td>Dirty Nipple</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
+<td>This is a layered shot - the Bailey&#39;s must be on top</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg" />
