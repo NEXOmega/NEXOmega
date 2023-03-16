@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dirty Nipple</td>
+<td>Mango Orange Smoothie</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>This is a layered shot - the Bailey&#39;s must be on top</td>
+<td>Throw everything into a blender and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vdp2do1487603520.jpg" />
