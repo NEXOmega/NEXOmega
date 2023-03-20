@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spanish chocolate</td>
+<td>Sherry Eggnog</td>
 </tr>
 <tr>
-<td>Cocoa</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.</td>
+<td>Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwrpsv1478820541.jpg" />
