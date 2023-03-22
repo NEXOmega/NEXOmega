@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dragonfly</td>
+<td>Foxy Lady</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.</td>
+<td>Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg" />
