@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flaming Dr. Pepper</td>
+<td></td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg" />
+<img src="" />
