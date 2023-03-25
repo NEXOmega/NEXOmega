@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto And Cream</td>
+<td>French Connection</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake well with cracked ice, strain contents into a cocktail glass, and serve.</td>
+<td>Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg" />
