@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Martinez 2</td>
+<td>A Gilligan&#39;s Island</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients to a mixing glass and fill with ice.
-
-Stir until chilled, and strain into a chilled coupe glass.</td>
+<td>Shaken, not stirred!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" />
