@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Papaya Smoothie</td>
+<td>Martinez 2</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and liquify.</td>
+<td>Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jogv4w1487603571.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg" />
