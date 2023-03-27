@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Butter Baby</td>
+<td>Zimadori Zinger</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
+<td>Pour Zima in a collins glass over ice and then pour the shot of Midori. Don&#39;t stir. Garnish with a cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg" />
