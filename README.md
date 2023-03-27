@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Barracuda</td>
+<td>Flaming Dr. Pepper</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
+<td>Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg" />
