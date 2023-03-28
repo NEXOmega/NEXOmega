@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Afterglow</td>
+<td>Apello</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Other &#x2F; Unknown</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix. Serve over ice.</td>
+<td>Stirr. Grnish with maraschino cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" />
