@@ -48,25 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Ramos Gin Fizz</td>
+<td>Hot Chocolate to Die for</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Cocoa</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Prepare all the ingredients on the counter to be able to work well and quickly, especially the cream and egg white.
-
-Pour all the ingredients into a shaker.
-
-Shake vigorously for 1 minute: cream and egg white must be mixed perfectly, so don&#39;t rush.
-
-Now open the shaker and put some ice and shake for 1-2 minutes. It depends on how long you can resist!
-
-Pour into a highball glass, add a splash of soda and garnish to taste.
-
-Ramos Gin Fizz was once drunk as an invigorating drink or even as a breakfast, try it as an aperitif and after dinner and you will discover a little gem now lost.</td>
+<td>Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/967t911643844053.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg" />
