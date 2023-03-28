@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apello</td>
+<td>Nutty Irishman</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Shake</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stirr. Grnish with maraschino cherry.</td>
+<td>Serve over ice</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg" />
