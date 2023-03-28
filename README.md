@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Girl From Ipanema</td>
+<td>Afterglow</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne</td>
+<td>Mix. Serve over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg" />
