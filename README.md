@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spiking coffee</td>
+<td>Amaretto Tea</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
+<td>Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg" />
