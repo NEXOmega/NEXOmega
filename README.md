@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mai Tai</td>
+<td>Fruit Shake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.</td>
+<td>Blend til smooth.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg" />
