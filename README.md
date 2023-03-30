@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut limousine</td>
+<td>Spiking coffee</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Alcoholic</td>
+<td>Coffee &#x2F; Tea</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges.</td>
+<td>Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ssqpyw1472719844.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg" />
