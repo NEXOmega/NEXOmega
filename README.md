@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutely Cranberry Smash</td>
+<td>Jack&#39;s Vanilla Coke</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir ingredients together. Serve over ice.</td>
+<td>After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg" />
