@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absinthe #2</td>
+<td>Sweet Tooth</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.</td>
+<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
