@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Absinthe #2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Homemade Liqueur</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg" />
