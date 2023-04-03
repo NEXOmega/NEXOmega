@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Old Pal</td>
+<td>3-Mile Long Island Iced Tea</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Chill cocktail glass. Add ingredients to a mixing glass, and fill 2&#x2F;3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.</td>
+<td>Fill 14oz glass with ice and alcohol. Fill 2&#x2F;3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" />
