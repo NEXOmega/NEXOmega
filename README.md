@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>French Connection</td>
+<td>New York Lemonade</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.</td>
+<td>Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg" />
