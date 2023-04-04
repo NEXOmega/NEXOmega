@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Spring</td>
+<td>151 Florida Bushwacker</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.</td>
+<td>Combine all ingredients. Blend until smooth. Garnish with chocolate shavings if desired.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sot8v41504884783.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvwrvv1468877323.jpg" />
