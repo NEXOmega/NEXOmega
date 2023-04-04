@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Wine Cooler</td>
+<td>Irish Spring</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Optional alcohol</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix wine and soft drink. Pour into glass. Add ice.</td>
+<td>Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sot8v41504884783.jpg" />
