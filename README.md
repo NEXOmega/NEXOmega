@@ -48,7 +48,7 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flying Scotchman</td>
+<td>After Supper Cocktail</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
@@ -59,4 +59,4 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/q53l911582482518.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" />
