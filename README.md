@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>69 Special</td>
+<td>Greyhound</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.</td>
+<td>Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg" />
