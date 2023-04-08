@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutely Fabulous</td>
+<td>Frozen Daiquiri</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.</td>
+<td>Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7oyrj91504884412.jpg" />
