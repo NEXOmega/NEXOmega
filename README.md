@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Munich Mule</td>
+<td>252</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice
-Pour Gin and Lime Juice
-Fill glass with Ginger Beer
-Garnish with Cucumer and Lime slice</td>
+<td>Add both ingredients to shot glass, shoot, and get drunk quick</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rj55pl1582476101.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg" />
