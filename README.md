@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Black &amp; Tan</td>
+<td>Diesel</td>
 </tr>
 <tr>
 <td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black &amp; Tan.</td>
+<td>Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" />
