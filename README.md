@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto fizz</td>
+<td>B-52</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.</td>
+<td>Layer ingredients into a shot glass. Serve with a stirrer.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/92h3jz1582474310.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" />
