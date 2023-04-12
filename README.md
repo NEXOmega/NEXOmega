@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Abbey Martini</td>
+<td>Havana Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
+<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg" />
