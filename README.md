@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin and Soda</td>
+<td>Rum Screwdriver</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
-Stir well.
-Garnish with the lime wedge.</td>
+<td>Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" />
