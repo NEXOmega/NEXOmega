@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bob Marley</td>
+<td>Manhattan</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Layer in a 2 oz shot glass or pony glass</td>
+<td>Stirred over ice, strained into a chilled glass, garnished, and served up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg" />
