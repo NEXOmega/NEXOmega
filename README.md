@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>ABC</td>
+<td>Martinez 2</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Layered in a shot glass.</td>
+<td>Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg" />
