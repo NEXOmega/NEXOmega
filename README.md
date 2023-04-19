@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Hemingway Special</td>
+<td>Alice Cocktail</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a shaker with ice. Shake.</td>
+<td>Shake well, strain into a large cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg" />
