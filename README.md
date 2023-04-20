@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bailey&#39;s Dream Shake</td>
+<td>Funk and Soul</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend ingredients for 30 seconds. Definitely refreshing for a hot summer&#39;s day !</td>
+<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
