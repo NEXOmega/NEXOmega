@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zizi Coin-coin</td>
+<td>Planter&#39;s Punch</td>
 </tr>
 <tr>
 <td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon&#x2F;lime in glass.</td>
+<td>Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, &quot;on top&quot;. Garnish with cocktail cherry and pineapple.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fdk8a31606854815.jpg" />
