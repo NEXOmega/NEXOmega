@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Funk and Soul</td>
+<td>Paradise</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
+<td>Shake together over ice. Strain into cocktail glass and serve chilled.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg" />
