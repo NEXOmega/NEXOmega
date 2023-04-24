@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Turf Cocktail</td>
+<td>Snowday</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.</td>
+<td>Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/utypqq1441554367.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4n1ipk1614009624.jpg" />
