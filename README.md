@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mint Julep</td>
+<td>Mimosa</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.</td>
+<td>Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" />
