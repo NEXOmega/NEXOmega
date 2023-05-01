@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A1</td>
+<td>Turf Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
+<td>Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/utypqq1441554367.jpg" />
