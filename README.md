@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Ipamena</td>
+<td>Tuxedo Cocktail</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
-<td>Non alcoholic</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
+<td>Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4u0nbl1504352551.jpg" />
