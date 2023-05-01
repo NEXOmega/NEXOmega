@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Victory Collins</td>
+<td>Chocolate Monkey</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except orange slice) with ice and strain into a collins glass over ice cubes. Add the slice of orange and serve.</td>
+<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lx0lvs1492976619.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
