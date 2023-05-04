@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Ruby Tuesday</td>
+<td>Jitterbug</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.</td>
+<td>Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It&#39;s that simple!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg" />
