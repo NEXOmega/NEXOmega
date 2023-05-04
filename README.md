@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Highland Fling Cocktail</td>
+<td>Ruby Tuesday</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
+<td>Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg" />
