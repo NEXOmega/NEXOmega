@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zizi Coin-coin</td>
+<td>The Galah</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon&#x2F;lime in glass.</td>
+<td>Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg" />
