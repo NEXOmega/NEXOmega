@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Diesel</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Beer</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" />
