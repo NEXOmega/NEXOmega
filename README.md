@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Diesel</td>
+<td>Tequila Surprise</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
+<td>Fill shot glass with Tequila. Add drops of Tobasco sauce.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg" />
