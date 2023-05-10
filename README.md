@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>London Town</td>
+<td>The Evil Blue Thing</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+<td>Pour ingredients into glass, and drop in a blue whale! The blue whale isn&#39;t really necessary, but it makes the drink more &quot;fun&quot;.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" />
