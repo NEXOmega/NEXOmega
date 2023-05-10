@@ -48,15 +48,20 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Whisky Mac</td>
+<td>Blue Hurricane</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour both of the ingredients into a wine goblet with no ice.</td>
+<td>If each part is 1&#x2F;2 oz then use about 2.5 cups of ice.
+
+Blend it all together. 
+Drink it with a big straw if you have one.
+
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg" />
