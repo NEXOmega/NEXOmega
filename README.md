@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kool First Aid</td>
+<td>Pink Moon</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.</td>
+<td>Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lnjoc81619696191.jpg" />
