@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>252</td>
+<td>Pina Colada</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add both ingredients to shot glass, shoot, and get drunk quick</td>
+<td>Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upgsue1668419912.jpg" />
