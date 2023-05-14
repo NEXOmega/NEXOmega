@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blueberry Mojito</td>
+<td>H.D.</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.</td>
+<td>Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upusyu1472667977.jpg" />
