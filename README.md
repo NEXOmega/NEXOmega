@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Strange Weaver</td>
+<td>Snake Bite (UK)</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix ingredients slowly in a glass with ice, garnish with orange slice</td>
+<td>Pour ingredients into a pint glass. Drink. Fall over.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/opxjzh1604179528.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" />
