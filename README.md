@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A True Amaretto Sour</td>
+<td>Sol Y Sombra</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good &quot;frosted&quot; rim. Shake a jigger of Amaretto with the juice of 1&#x2F;2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
+<td>Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you&#39;ll understand why. Thanks, Kirby.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg" />
