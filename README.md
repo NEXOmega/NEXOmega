@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Swedish Coffee</td>
+<td>Horse&#39;s Neck</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the coffee in an ordinary coffee cup. Add the aquavit. Add sugar by taste. Stir and have a nice evening (morning)</td>
+<td>Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ywtrvt1441246783.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg" />
