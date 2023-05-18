@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Egg Cream</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mvis731484430445.jpg" />
