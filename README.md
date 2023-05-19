@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pineapple Paloma</td>
+<td>Lemon Shot</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Rub the rim of each glass with lime slice and dip into salt.
-Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
-Give it a quick stir.
-Garnish with fresh pineapple or lime.</td>
+<td>Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pg8iw31593351601.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg" />
