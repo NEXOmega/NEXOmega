@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cherry Electric Lemonade</td>
+<td>Snakebite and Black</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.</td>
+<td>Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" />
