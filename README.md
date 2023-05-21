@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Casino Royale</td>
+<td>Grape lemon pineapple Smoothie</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
+<td>Throw everything into a blender and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg" />
