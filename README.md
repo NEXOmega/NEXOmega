@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pegu Club</td>
+<td>Winter Rita</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake, strain, up, cocktail glass</td>
+<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
