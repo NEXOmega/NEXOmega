@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Negroni</td>
+<td>Pegu Club</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir into glass over ice, garnish and serve.</td>
+<td>Shake, strain, up, cocktail glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg" />
