@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aztec Punch</td>
+<td>Absolut Sex</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don&#39;t over do it.</td>
+<td>Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xtrvtx1472668436.jpg" />
