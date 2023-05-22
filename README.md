@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Winter Rita</td>
+<td>Almond Chocolate Coffee</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
+<td>Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jls02c1493069441.jpg" />
