@@ -48,24 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zombie</td>
+<td>Barracuda</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>
-Blend at high speed for no more than 5 seconds.
-
-Pour into a glass, add ice cubes to fill, then add the garnish.
-
-*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
-
-Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
-
-Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td>
+<td>Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" />
