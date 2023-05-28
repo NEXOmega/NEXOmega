@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandy Sour</td>
+<td>Adam Sunrise</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.</td>
+<td>Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1&#x2F;2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/b1bxgq1582484872.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg" />
