@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oreo Mudslide</td>
+<td>Bora Bora</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocktail</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Blend Vodka, Kahlua, Bailey&#39;s, ice-cream and the Oreo well in a blender. Pour into a large frosted glass. Garnish with whipped cream and a cherry.</td>
+<td>Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpwwut1468925017.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg" />
