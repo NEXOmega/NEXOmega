@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Royal Flush</td>
+<td>Gin Toddy</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all the ingredients into tumbler over ice. Strain into glass.</td>
+<td>Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jxstwf1582582101.jpg" />
