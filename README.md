@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>GG</td>
+<td></td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Optional alcohol</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vyxwut1468875960.jpg" />
+<img src="" />
