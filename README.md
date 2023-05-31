@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Arctic Fish</td>
+<td>Oatmeal Cookie</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.</td>
+<td>Just mix it all together.
+It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
+
+Tastes like an oatmeal cookie.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ttsvwy1472668781.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" />
