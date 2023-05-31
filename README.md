@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oatmeal Cookie</td>
+<td>Lunch Box</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix it all together.
-It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.</td>
+<td>Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg" />
