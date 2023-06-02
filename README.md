@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Allies Cocktail</td>
+<td>Pink Penocha</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
+<td>mix all ingredients into bowl keep iced stir frequently</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qvprvp1483388104.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6vigjx1503564007.jpg" />
