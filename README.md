@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi Khara</td>
+<td>Strawberry Shivers</td>
 </tr>
 <tr>
 <td>Other &#x2F; Unknown</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg" />
