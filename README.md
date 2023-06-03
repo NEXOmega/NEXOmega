@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Monkey Wrench</td>
+<td>Downshift</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg" />
