@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Apple Slammer</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg" />
