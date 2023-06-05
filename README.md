@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>After Dinner Cocktail</td>
+<td>Amaretto Mist</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve.</td>
+<td>Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vtytxq1483387578.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/utpxxq1483388370.jpg" />
