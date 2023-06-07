@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Martini</td>
+<td>Caribbean Orange Liqueur</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
-
-For this recipe, you&#39;ll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It&#39;s a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.</td>
+<td>Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg" />
