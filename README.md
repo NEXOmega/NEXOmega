@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Evil Blue Thing</td>
+<td>Frozen Pineapple Daiquiri</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into glass, and drop in a blue whale! The blue whale isn&#39;t really necessary, but it makes the drink more &quot;fun&quot;.</td>
+<td>Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a cocktail glass and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/k3aecd1582481679.jpg" />
