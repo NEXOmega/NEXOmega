@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Frozen Pineapple Daiquiri</td>
+<td>Apple Pie with A Crust</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a cocktail glass and serve.</td>
+<td>Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k3aecd1582481679.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg" />
