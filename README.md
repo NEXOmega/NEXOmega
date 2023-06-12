@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Stress #2</td>
+<td>Mai Tai</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix well. Garnish with Orange and Cherry. Enjoy</td>
+<td>Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg" />
