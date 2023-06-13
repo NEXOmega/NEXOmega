@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Russian</td>
+<td>French Connection</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice.</td>
+<td>Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/swqurw1454512730.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg" />
