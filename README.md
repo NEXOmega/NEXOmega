@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bee&#39;s Knees</td>
+<td>155 Belmont</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with crushed ice
-Garnish with orange peel
-</td>
+<td>Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg" />
