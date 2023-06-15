@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Honey Bee</td>
+<td>Grizzly Bear</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with crushed ice
-</td>
+<td>Served over ice. Sounds nasty, but tastes great.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vu8l7t1582475673.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg" />
