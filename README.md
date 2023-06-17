@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>French Negroni</td>
+<td></td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Add ice to a shaker and pour in all ingredients.
-Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
-Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg" />
+<img src="" />
