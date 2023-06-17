@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bacardi Cocktail</td>
+<td></td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Shake together with ice. Strain into glass and serve.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/n433t21504348259.jpg" />
+<img src="" />
