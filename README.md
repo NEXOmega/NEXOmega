@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Americano</td>
+<td>Zipperhead</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.</td>
+<td>Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/709s6m1613655124.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r2qzhu1485620235.jpg" />
