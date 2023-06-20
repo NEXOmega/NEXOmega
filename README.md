@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Evergreen</td>
+<td>Dry Martini</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix, pour over ice and top up with Bitter Lemon.</td>
+<td>Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg" />
