@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Daiquiri</td>
+<td>Gin and Soda</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+<td>Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
+Stir well.
+Garnish with the lime wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" />
