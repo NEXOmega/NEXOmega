@@ -48,19 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gimlet</td>
+<td>Whisky Mac</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all the ingredients to a shaker and fill with ice.
-
-Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
-
-Garnish with a lime wheel.</td>
+<td>Pour both of the ingredients into a wine goblet with no ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" />
