@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Almeria</td>
+<td>Fahrenheit 5000</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+<td>Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg" />
