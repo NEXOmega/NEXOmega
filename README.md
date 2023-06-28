@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Smut</td>
+<td>Bailey&#39;s Dream Shake</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Soft Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw it all together and serve real cold.</td>
+<td>Blend ingredients for 30 seconds. Definitely refreshing for a hot summer&#39;s day !</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg" />
