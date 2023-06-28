@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brandy Sour</td>
+<td>Texas Sling</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.</td>
+<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/b1bxgq1582484872.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
