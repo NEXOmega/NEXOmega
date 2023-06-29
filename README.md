@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Addison Special</td>
+<td>Banana Cantaloupe Smoothie</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.</td>
+<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
