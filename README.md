@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Cantaloupe Smoothie</td>
+<td>Baby Eskimo</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Shake</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
+<td>Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg" />
