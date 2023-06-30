@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Alfie Cocktail</td>
+<td>Banana Cantaloupe Smoothie</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
