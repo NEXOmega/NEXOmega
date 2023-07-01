@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Campari Beer</td>
+<td>Sidecar</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Use a 15 oz glass. Add Campari first. Fill with beer.</td>
+<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
