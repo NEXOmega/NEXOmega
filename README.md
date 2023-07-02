@@ -48,16 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Aquamarine</td>
+<td>Michelada</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake well in a shaker with ice.
-Strain in a martini glass.</td>
+<td>Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
+Served In a chilled, salt-rimmed glass
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg" />
