@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Shot-gun</td>
+<td>Scotch Sour</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.</td>
+<td>Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1&#x2F;2 slice lemon, top with the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg" />
