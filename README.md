@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Gilligan&#39;s Island</td>
+<td>After Dinner Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shaken, not stirred!</td>
+<td>Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtytxq1483387578.jpg" />
