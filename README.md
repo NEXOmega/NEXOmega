@@ -48,17 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bee&#39;s Knees</td>
+<td>Singapore Sling</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with crushed ice
-Garnish with orange peel
-</td>
+<td>Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7dozeg1582578095.jpg" />
