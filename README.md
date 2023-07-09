@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Quick F**K</td>
+<td>Royal Flush</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shot glass add 1&#x2F;3 Kahlua first. Then 1&#x2F;3 Miduri, topping it off with a 1&#x2F;3 bailey&#39;s irish cream</td>
+<td>Pour all the ingredients into tumbler over ice. Strain into glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" />
