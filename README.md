@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Iced Coffee</td>
+<td>Alexander</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.</td>
+<td>Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg" />
