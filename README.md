@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jamaican Coffee</td>
+<td>Iced Coffee</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.</td>
+<td>Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg" />
