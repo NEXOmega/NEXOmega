@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Lemon</td>
+<td>Cranberry Cordial</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.</td>
+<td>Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg" />
