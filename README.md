@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Espresso Martini</td>
+<td>Gin Basil Smash</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass</td>
+<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
