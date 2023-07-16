@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gentleman&#39;s Club</td>
+<td>Martini</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
+<td>Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg" />
