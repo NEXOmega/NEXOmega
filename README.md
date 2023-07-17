@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Archbishop</td>
+<td>Vodka And Tonic</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
+<td>Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" />
