@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka And Tonic</td>
+<td>Banana Strawberry Shake</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.</td>
+<td>Blend all together in a blender until smooth.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg" />
