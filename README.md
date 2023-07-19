@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka And Tonic</td>
+<td>Garibaldi Negroni</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.</td>
+<td>Mix together in a shaker and garnish with a simple orange slice. Fill your vitamin C and cocktail fix at the same time!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kb4bjg1604179771.jpg" />
