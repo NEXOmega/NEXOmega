@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sidecar</td>
+<td>Sweet Sangria</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
+<td>Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqqvsp1468924228.jpg" />
