@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spiced Peach Punch</td>
+<td>Scotch Sour</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.</td>
+<td>Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1&#x2F;2 slice lemon, top with the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg" />
