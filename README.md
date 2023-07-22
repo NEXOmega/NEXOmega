@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto And Cream</td>
+<td>Spiced Peach Punch</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake well with cracked ice, strain contents into a cocktail glass, and serve.</td>
+<td>Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg" />
