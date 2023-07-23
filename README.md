@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tuxedo Cocktail</td>
+<td>Long Island Tea</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.</td>
+<td>Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4u0nbl1504352551.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg" />
