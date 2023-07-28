@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Monkey Wrench</td>
+<td>Adios Amigos Cocktail</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Shake together all the ingredients and strain into a cold glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/8nk2mp1504819893.jpg" />
