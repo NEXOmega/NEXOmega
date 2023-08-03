@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Russian</td>
+<td>Snake Bite (UK)</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Beer</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix it as a ordinary drink .</td>
+<td>Pour ingredients into a pint glass. Drink. Fall over.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" />
