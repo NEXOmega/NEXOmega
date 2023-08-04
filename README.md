@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Slammer</td>
+<td>Autumn Garibaldi</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
+<td>Pour all ingredients into a glass over ice and stir with a bar spoon. Garnish with some orange slices.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ne7re71604179012.jpg" />
