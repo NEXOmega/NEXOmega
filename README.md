@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Elderflower Caipirinha</td>
+<td>Mulled Wine</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!</td>
+<td>Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" />
