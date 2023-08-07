@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Winter Rita</td>
+<td></td>
 </tr>
 <tr>
-<td>Beer</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/fwpd0v1614006733.jpg" />
+<img src="" />
