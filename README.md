@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cherry Rum</td>
+<td>Chocolate Drink</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Cocoa</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don&#39;t let it boil! Serve in coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg" />
