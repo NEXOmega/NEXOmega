@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Horse&#39;s Neck</td>
+<td>Cafe Savoy</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
+<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
