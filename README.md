@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Texas Sling</td>
+<td>Derby</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
+<td>Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/52weey1606772672.jpg" />
