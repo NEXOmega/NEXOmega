@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Texas Sling</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Shake</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
