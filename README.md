@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Galah</td>
+<td>Boxcar</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
+<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg" />
