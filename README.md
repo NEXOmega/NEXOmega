@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>B-53</td>
+<td>Apello</td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
+<td>Stirr. Grnish with maraschino cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" />
