@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Caribbean Boilermaker</td>
+<td>Algonquin</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Corona into an 18oz beer glass pour the rum into the beer.</td>
+<td>Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg" />
