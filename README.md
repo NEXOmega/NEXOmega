@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Fuzzy Asshole</td>
+<td>B-53</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.</td>
+<td>Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" />
