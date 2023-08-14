@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tequila Fizz</td>
+<td>Atlantic Sun</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
+<td>Shake all the ingredients, top the drink with soda. Garnish with a slice of orange.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2bcase1504889637.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/doyxqb1493067556.jpg" />
