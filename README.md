@@ -48,15 +48,16 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Lemon</td>
+<td>Gin Basil Smash</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
+<td>Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg" />
