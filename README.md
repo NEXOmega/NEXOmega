@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Passion Fruit Martini</td>
+<td>Kiwi Lemon</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.</td>
+<td>Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" />
