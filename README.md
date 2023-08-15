@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Monkey Wrench</td>
+<td>Sunny Holiday Punch</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Combine all ingredients in a punch bowl.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rywtwy1468924758.jpg" />
