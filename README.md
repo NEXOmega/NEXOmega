@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Green Goblin</td>
+<td>Vodka Fizz</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cider First, Lager then Curacao</td>
+<td>Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg" />
