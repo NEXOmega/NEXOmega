@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Fizz</td>
+<td>A Furlong Too Late</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.</td>
+<td>Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/drtihp1606768397.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg" />
