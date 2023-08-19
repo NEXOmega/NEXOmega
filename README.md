@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutly Screwed Up</td>
+<td>The Evil Blue Thing</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
+<td>Pour ingredients into glass, and drop in a blue whale! The blue whale isn&#39;t really necessary, but it makes the drink more &quot;fun&quot;.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" />
