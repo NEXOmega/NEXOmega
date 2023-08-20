@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pineapple Gingerale Smoothie</td>
+<td>Classic Old-Fashioned</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and liquify.</td>
+<td>In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/w8cxqv1582485254.jpg" />
