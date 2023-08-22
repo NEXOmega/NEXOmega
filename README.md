@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kiwi Lemon</td>
+<td>Queen Charlotte</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
+<td>Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" />
