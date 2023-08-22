@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Funk and Soul</td>
+<td>Quarter Deck Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
+<td>Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrwvps1478963017.jpg" />
