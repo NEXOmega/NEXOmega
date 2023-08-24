@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>The Jimmy Conway</td>
+<td>Tomato Tang</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice
-Pour in The Irishman and Disaronno
-Fill to the top with Cranberry Juice
-Garnish with a slice of lemon…Enjoy!</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wbcvyo1535794478.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg" />
