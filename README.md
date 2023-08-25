@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Abbey Cocktail</td>
+<td>Herbal flame</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+<td>Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mr30ob1582479875.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg" />
