@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zimadori Zinger</td>
+<td></td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Pour Zima in a collins glass over ice and then pour the shot of Midori. Don&#39;t stir. Garnish with a cherry.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg" />
+<img src="" />
