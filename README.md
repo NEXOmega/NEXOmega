@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Jitterbug</td>
+<td>Bounty Hunter</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It&#39;s that simple!</td>
+<td>Add the spirits into a shaker as well as the pineapple juice, strain into a Margarita glass. Top with Prosecco and garnish with Blueberries.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/t8bgxl1596018175.jpg" />
