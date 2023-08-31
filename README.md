@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Black and Brown</td>
+<td>Hot Creamy Bush</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.</td>
+<td>Combine all ingredients in glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg" />
