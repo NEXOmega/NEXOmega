@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Flaming Dr. Pepper</td>
+<td>Frisco Sour</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer</td>
+<td>Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/acuvjz1582482022.jpg" />
