@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>3 Wise Men</td>
+<td></td>
 </tr>
 <tr>
-<td>Shot</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>put them them in a glass... and slam it to tha head.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wxqpyw1468877677.jpg" />
+<img src="" />
