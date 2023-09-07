@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>English Rose Cocktail</td>
+<td>A True Amaretto Sour</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.</td>
+<td>Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good &quot;frosted&quot; rim. Shake a jigger of Amaretto with the juice of 1&#x2F;2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yxwrpp1441208697.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg" />
