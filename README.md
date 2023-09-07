@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Vodka Lemon</td>
+<td>Apple Berry Smoothie</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.</td>
+<td>Throw everything into a blender and liquify.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwqvur1468876473.jpg" />
