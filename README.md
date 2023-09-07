@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Addison Special</td>
+<td>Vodka Lemon</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.</td>
+<td>The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" />
