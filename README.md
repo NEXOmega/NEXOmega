@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Texas Rattlesnake</td>
+<td>Frozen Mint Daiquiri</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...</td>
+<td>Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtohqp1504889750.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jrhn1q1504884469.jpg" />
