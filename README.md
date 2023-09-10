@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pure Passion</td>
+<td>Sweet Tooth</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.</td>
+<td>Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg" />
