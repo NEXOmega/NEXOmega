@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - Mango</td>
+<td>Bob Marley</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.</td>
+<td>Layer in a 2 oz shot glass or pony glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1bw6sd1487603816.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg" />
