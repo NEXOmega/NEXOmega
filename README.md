@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kurant Tea</td>
+<td>Masala Chai</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!</td>
+<td>Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg" />
