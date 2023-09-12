@@ -48,20 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Blue Hurricane</td>
+<td>Space Odyssey</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>If each part is 1&#x2F;2 oz then use about 2.5 cups of ice.
-
-Blend it all together. 
-Drink it with a big straw if you have one.
-
-</td>
+<td>Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg" />
