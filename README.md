@@ -40,3 +40,26 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
+
+
+<table style="width:100%">
+<thead>
+<th colspan="2">Que dois je boire ?</th>
+</thead>
+<tbody>
+<tr>
+<td>747 Drink</td>
+</tr>
+<tr>
+<td>Cocktail</td>
+<td>Alcoholic</td>
+</tr>
+<tr>
+<td>Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries</td>
+</tr>
+</tbody>
+</table>
+<img src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg" />
