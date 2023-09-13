@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>1-900-FUK-MEUP</td>
+<td>Rum Runner</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.</td>
+<td>Mix all ingredients in glass &amp; add ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uxywyw1468877224.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg" />
