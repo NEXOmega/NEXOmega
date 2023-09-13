@@ -40,23 +40,3 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
-
-
-<table style="width:100%">
-<thead>
-<th colspan="2">Que dois je boire ?</th>
-</thead>
-<tbody>
-<tr>
-<td>Rum Runner</td>
-</tr>
-<tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Alcoholic</td>
-</tr>
-<tr>
-<td>Mix all ingredients in glass &amp; add ice.</td>
-</tr>
-</tbody>
-</table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg" />
