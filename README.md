@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Shark Attack</td>
+<td>Rum Screwdriver</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1&#x2F;3 cans of water do so. Mix into pitcher. Add 1 1&#x2F;2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!</td>
+<td>Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uv96zr1504793256.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" />
