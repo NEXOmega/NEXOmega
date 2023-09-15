@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Fahrenheit 5000</td>
+<td>Rusty Nail</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.</td>
+<td>Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg" />
