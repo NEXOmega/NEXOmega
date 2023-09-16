@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Addington</td>
+<td>Chocolate Monkey</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Mix both the vermouth&#39;s in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. </td>
+<td>blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg" />
