@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cosmopolitan Martini</td>
+<td>Almond Joy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xutuqs1483388296.jpg" />
