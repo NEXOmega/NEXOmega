@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - Sweet</td>
+<td>Cosmopolitan Martini</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
+<td>Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" />
