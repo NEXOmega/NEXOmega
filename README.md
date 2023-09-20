@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lazy Coconut Paloma</td>
+<td>Adam Sunrise</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix the coconut liqueur (preferably tequila) with the grapefruit juice and top with soda water. Garnish with a large grapefruit slice against the inside of the glass.</td>
+<td>Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1&#x2F;2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rytuex1598719770.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg" />
