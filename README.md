@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bailey&#39;s Dream Shake</td>
+<td>Rosemary Blue</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend ingredients for 30 seconds. Definitely refreshing for a hot summer&#39;s day !</td>
+<td>1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
+2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
+3) Gently fold with a bar spoon to mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg" />
