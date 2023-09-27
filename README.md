@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mimosa</td>
+<td>Tequila Slammer</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
+<td>Mix carefully to avoid releasing the dissolved CO2.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" />
