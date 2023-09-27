@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bible Belt</td>
+<td>Bubble Gum</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients, and pour over ice.</td>
+<td>Layer in order into a shot glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6bec6v1503563675.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" />
