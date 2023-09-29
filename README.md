@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Thai Coffee</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Coffee &#x2F; Tea</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it&#39;s easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg" />
