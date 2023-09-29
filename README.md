@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cosmopolitan</td>
+<td>Vodka Slime</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.</td>
+<td>Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg" />
