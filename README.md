@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Allegheny</td>
+<td>Arise My Love</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.</td>
+<td>Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wyrrwv1441207432.jpg" />
