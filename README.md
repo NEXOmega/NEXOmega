@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Iced Coffee Fillip</td>
+<td>Iced Coffee</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix together in a coffee mug and chill before serving.</td>
+<td>Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ytprxy1454513855.jpg" />
