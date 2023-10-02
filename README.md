@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Poppy Cocktail</td>
+<td>Artillery</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/cslw1w1504389915.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg" />
