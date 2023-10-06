@@ -48,19 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mauresque</td>
+<td>White Russian</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>1 - Pour the Ricard (or pastis)
-2 - Pour the orgeat syrup
-3 - Finally pour the water and add ice cubes at your convenience.
-
-Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</td>
+<td>Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg" />
