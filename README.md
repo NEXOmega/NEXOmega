@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Coke and Drops</td>
+<td>Hot Creamy Bush</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
-<td>Non alcoholic</td>
+<td>Coffee &#x2F; Tea</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.</td>
+<td>Combine all ingredients in glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg" />
