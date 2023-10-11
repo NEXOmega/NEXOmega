@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Dubonnet Cocktail</td>
+<td>50&#x2F;50</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+<td>fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pfz3hz1582483111.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwpyvr1461919316.jpg" />
