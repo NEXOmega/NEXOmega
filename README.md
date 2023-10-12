@@ -48,15 +48,17 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Citrus Coke</td>
+<td>Cocktail Horse’s Neck</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
+<td>Wash and brush an organic, untreated lemon, then cut a spiral of lemon peel, using a citrus peel. If it is too large, cut it with a sharp knife.
+
+Put some ice in a tall tumbler glass, place the lemon peel inside and pour the cognac, add the ginger beer and let 2-3 drops of Angostura fall into it. Easy to do, but once you try it you&#39;ll love it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4vobt21643844913.jpg" />
