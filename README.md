@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snakebite and Black</td>
+<td></td>
 </tr>
 <tr>
-<td>Beer</td>
-<td>Alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" />
+<img src="" />
