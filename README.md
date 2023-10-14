@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tequila Surprise</td>
+<td>Kir Royale</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill shot glass with Tequila. Add drops of Tobasco sauce.</td>
+<td>Pour Creme de cassis in glass, gently pour champagne on top</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yt9i7n1504370388.jpg" />
