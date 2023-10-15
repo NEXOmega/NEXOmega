@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rum Cooler</td>
+<td>Stone Sour</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.</td>
+<td>Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" />
