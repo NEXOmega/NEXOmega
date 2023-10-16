@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Alaska Cocktail</td>
+<td>Orange Push-up</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.</td>
+<td>Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wsyryt1483387720.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mgf0y91503565781.jpg" />
