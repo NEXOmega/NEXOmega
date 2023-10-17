@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Midnight Cowboy</td>
+<td>Pegu Club</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+<td>Shake, strain, up, cocktail glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsxxwy1441208133.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg" />
