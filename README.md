@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - A South Indian Drink</td>
+<td>Just a Moonmint</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Shake</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.</td>
+<td>Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iq6scx1487603980.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg" />
