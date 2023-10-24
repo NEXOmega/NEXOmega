@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snowday</td>
+<td>Banana Milk Shake</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Shake</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.</td>
+<td>Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4n1ipk1614009624.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" />
