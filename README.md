@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Milk Shake</td>
+<td></td>
 </tr>
 <tr>
-<td>Shake</td>
-<td>Non alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" />
+<img src="" />
