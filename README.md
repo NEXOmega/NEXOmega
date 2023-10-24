@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Ace</td>
+<td>Snowday</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.</td>
+<td>Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4n1ipk1614009624.jpg" />
