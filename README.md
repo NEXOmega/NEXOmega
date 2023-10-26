@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi - Sweet</td>
+<td>Fruit Cooler</td>
 </tr>
 <tr>
 <td>Other &#x2F; Unknown</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
+<td>Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices. Juice the rest. Mix together the lemon juice, strawberries, apple juice, and soda water. Add slices of lemon (decor, really). In glasses, put ice cubes, and a slice of apple. Pour drink in, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/i3tfn31484430499.jpg" />
