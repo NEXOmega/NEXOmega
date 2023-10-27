@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutely Cranberry Smash</td>
+<td>Vesuvio</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir ingredients together. Serve over ice.</td>
+<td>Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/26cq601492976203.jpg" />
