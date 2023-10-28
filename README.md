@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>French Martini</td>
+<td>Radioactive Long Island Iced Tea</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.</td>
+<td>Pour all ingredients over ice in a very tall glass. Sip cautiously.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rdvqmh1503563512.jpg" />
