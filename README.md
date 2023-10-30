@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grand Blue</td>
+<td>Spritz Veneziano</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Serve in an old fashioned glass.</td>
+<td>Build into glass over ice, garnish and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/51ezka1551456113.jpg" />
