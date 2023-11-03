@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Girl From Ipanema</td>
+<td>Slippery Nipple</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne</td>
+<td>Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" />
