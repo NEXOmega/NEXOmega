@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Stone Sour Alternative</td>
+<td>Girl From Ipanema</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.</td>
+<td>Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg" />
