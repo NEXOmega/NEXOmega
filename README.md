@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brain Fart</td>
+<td>Danbooka</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda&#39;s are very cold.</td>
+<td>pour it in and mix it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg" />
