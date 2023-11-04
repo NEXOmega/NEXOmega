@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cream Soda</td>
+<td>Planter&#39;s Punch</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.</td>
+<td>Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, &quot;on top&quot;. Garnish with cocktail cherry and pineapple.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fdk8a31606854815.jpg" />
