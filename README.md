@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Coffee</td>
+<td>Arizona Stingers</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.</td>
+<td>Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg" />
