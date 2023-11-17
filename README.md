@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Owen&#39;s Grandmother&#39;s Revenge</td>
+<td>Pink Lady</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add ingredients and mix in blender.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0wt4uo1503565321.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg" />
