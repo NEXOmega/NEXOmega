@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lady Love Fizz</td>
+<td>Shark Attack</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
+<td>Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1&#x2F;3 cans of water do so. Mix into pitcher. Add 1 1&#x2F;2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uv96zr1504793256.jpg" />
