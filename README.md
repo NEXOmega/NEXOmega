@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lunch Box</td>
+<td>Alfie Cocktail</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
+<td>Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg" />
