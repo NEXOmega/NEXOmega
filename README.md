@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Evergreen</td>
+<td>Wine Punch</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix, pour over ice and top up with Bitter Lemon.</td>
+<td>Combine all of the ingredients and pour over a block of ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/txustu1473344310.jpg" />
