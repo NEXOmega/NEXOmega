@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Wine Punch</td>
+<td>Atlantic Sun</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all of the ingredients and pour over a block of ice.</td>
+<td>Shake all the ingredients, top the drink with soda. Garnish with a slice of orange.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/txustu1473344310.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/doyxqb1493067556.jpg" />
