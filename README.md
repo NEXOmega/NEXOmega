@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bloody Mary</td>
+<td>Royal Bitch</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stirring gently, pour all ingredients into highball glass. Garnish.</td>
+<td>Into a shot glass layer the Crown Royal on top of the Frangelico.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg" />
