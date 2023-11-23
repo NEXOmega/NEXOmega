@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gentleman&#39;s Club</td>
+<td>Hot Creamy Bush</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
+<td>Combine all ingredients in glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg" />
