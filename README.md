@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Brigadier</td>
+<td>Amaretto Sunset</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix ingredients in a warmed mug and stir.</td>
+<td>Shake ingredients in bartender&#39;s mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg" />
