@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sidecar</td>
+<td>Pink Gin</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.</td>
+<td>Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg" />
