@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zinger</td>
+<td>Tequila Slammer</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.</td>
+<td>Mix carefully to avoid releasing the dissolved CO2.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/iixv4l1485620014.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" />
