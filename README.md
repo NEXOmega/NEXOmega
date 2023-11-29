@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Evergreen</td>
+<td>Cuba Libre</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix, pour over ice and top up with Bitter Lemon.</td>
+<td>Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg" />
