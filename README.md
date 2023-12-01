@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Highland Fling Cocktail</td>
+<td>Citrus Coke</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Soft Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
+<td>Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg" />
