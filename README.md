@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>A Splash of Nash</td>
+<td>Affair</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Drop shot glass with banana &amp; melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
+<td>Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg" />
