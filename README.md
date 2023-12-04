@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Zambeer</td>
+<td>Amaretto Stone Sour Alternative</td>
 </tr>
 <tr>
-<td>Soft Drink</td>
+<td>Other &#x2F; Unknown</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix sambuca with rootbeer and stir. Add ice</td>
+<td>Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg" />
