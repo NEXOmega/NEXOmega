@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Scooter</td>
+<td>Zoksel</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Soft Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.</td>
+<td>No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg" />
