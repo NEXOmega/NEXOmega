@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>252</td>
+<td>Zipperhead</td>
 </tr>
 <tr>
 <td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Add both ingredients to shot glass, shoot, and get drunk quick</td>
+<td>Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r2qzhu1485620235.jpg" />
