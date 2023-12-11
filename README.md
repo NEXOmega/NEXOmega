@@ -48,15 +48,27 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Boozy Snickers Milkshake</td>
+<td>Bloody Punch</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.</td>
+<td>Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
+
+Step
+2
+
+ 
+In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
+
+Step
+3
+
+ 
+Add blueberries and raisins. They will float and look like bugs in the punch.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5yhd3n1571687385.jpg" />
