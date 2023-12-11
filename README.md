@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grizzly Bear</td>
+<td>Quick F**K</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Served over ice. Sounds nasty, but tastes great.</td>
+<td>In a shot glass add 1&#x2F;3 Kahlua first. Then 1&#x2F;3 Miduri, topping it off with a 1&#x2F;3 bailey&#39;s irish cream</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" />
