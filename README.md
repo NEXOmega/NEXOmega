@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Spanish chocolate</td>
+<td>Afternoon</td>
 </tr>
 <tr>
-<td>Cocoa</td>
-<td>Non alcoholic</td>
+<td>Coffee &#x2F; Tea</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.</td>
+<td>Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg" />
