@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grizzly Bear</td>
+<td>Butter Baby</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Served over ice. Sounds nasty, but tastes great.</td>
+<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
