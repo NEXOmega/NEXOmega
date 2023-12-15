@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>White Russian</td>
+<td>Homemade Kahlua</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Homemade Liqueur</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.</td>
+<td>Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" />
