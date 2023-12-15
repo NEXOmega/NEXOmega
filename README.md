@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Homemade Kahlua</td>
+<td>After Five</td>
 </tr>
 <tr>
-<td>Homemade Liqueur</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.</td>
+<td>1. Pour Kahlua into shot glass to about 1&#x2F;2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3&#x2F;4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey&#39;s. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey&#39;s floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sk3lr91493068595.jpg" />
