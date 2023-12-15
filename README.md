@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Butter Baby</td>
+<td>Hawaiian Cocktail</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ujoh9x1504882987.jpg" />
