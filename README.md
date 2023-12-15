@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Midnight Mint</td>
+<td>Cafe Savoy</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Coffee &#x2F; Tea</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.</td>
+<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
