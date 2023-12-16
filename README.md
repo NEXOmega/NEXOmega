@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Cafe Savoy</td>
+<td>Atomic Lokade</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
+<td>In a shaker, place lemonade, vodka, blue Curacao, and triple sec together. Shake with ice and strain into glass. Add sugar to taste</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/n3zfrh1493067412.jpg" />
