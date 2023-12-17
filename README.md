@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Texas Sling</td>
+<td>Port Wine Flip</td>
 </tr>
 <tr>
-<td>Shake</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
+<td>Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vrprxu1441553844.jpg" />
