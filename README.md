@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Archbishop</td>
+<td>Zima Blaster</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
+<td>Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg" />
