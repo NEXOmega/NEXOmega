@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grand Blue</td>
+<td>New York Lemonade</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Serve in an old fashioned glass.</td>
+<td>Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg" />
