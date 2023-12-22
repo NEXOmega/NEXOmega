@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Hot Chocolate to Die for</td>
+<td></td>
 </tr>
 <tr>
-<td>Cocoa</td>
-<td>Non alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg" />
+<img src="" />
