@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Godmother</td>
+<td>Kentucky Colonel</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour vodka and amaretto into an old-fashioned glass over ice and serve.</td>
+<td>In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/quksqg1582582597.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg" />
