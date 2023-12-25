@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Americano</td>
+<td>Paradise</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.</td>
+<td>Shake together over ice. Strain into cocktail glass and serve chilled.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/709s6m1613655124.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg" />
