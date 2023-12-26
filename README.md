@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Frappé</td>
+<td>Thai Iced Tea</td>
 </tr>
 <tr>
 <td>Coffee &#x2F; Tea</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1&#x2F;2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1&#x2F;2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.</td>
+<td>Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwryq1441245927.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg" />
