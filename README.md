@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Thai Iced Tea</td>
+<td>Irish Curdling Cow</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
-<td>Non alcoholic</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
+<td>Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg" />
