@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sunny Holiday Punch</td>
+<td>Captain Kidd&#39;s Punch</td>
 </tr>
 <tr>
-<td>Punch &#x2F; Party Drink</td>
-<td>Optional alcohol</td>
+<td>Cocktail</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine all ingredients in a punch bowl.</td>
+<td>Mix all ingredients together in a shaker and strain into a collins glass. Use Caribbean dark Rum for a sweeter taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rywtwy1468924758.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/d83spj1596017390.jpg" />
