@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Gin Lemon</td>
+<td>Whiskey Sour</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.</td>
+<td>Shake with ice. Strain into chilled glass, garnish and serve. If served &#39;On the rocks&#39;, strain ingredients into old-fashioned glass filled with ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/6gdohq1681212476.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg" />
