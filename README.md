@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Snowball</td>
+<td>Strawberry Daiquiri</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Place one ice cube in the glass and add 1 1&#x2F;2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.</td>
+<td>Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7ibfs61504735416.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg" />
