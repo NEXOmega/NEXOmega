@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Alexander</td>
+<td>Surf City Lifesaver</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
+<td>Lots of ice and soda top up in tall glass with cherry and a grin.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2rzfer1487602699.jpg" />
