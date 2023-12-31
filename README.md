@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tommy&#39;s Margarita</td>
+<td>Gentleman&#39;s Club</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake and strain into a chilled cocktail glass.</td>
+<td>In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/loezxn1504373874.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg" />
