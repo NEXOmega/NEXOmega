@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>747</td>
+<td>A True Amaretto Sour</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!</td>
+<td>Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good &quot;frosted&quot; rim. Shake a jigger of Amaretto with the juice of 1&#x2F;2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg" />
