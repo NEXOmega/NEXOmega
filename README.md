@@ -1,6 +1,6 @@
 <h1>Salut, c'est Valentin (NEXOmega)</h1>
 <p>
-Valentin, 21 Ans, Passioné d'Informatique et de bricollage en tout genre notamment en domotique.<br/>
+Valentin, 22 Ans, Passioné d'Informatique et de bricollage en tout genre notamment en domotique.<br/>
 J'ai commencé la programmation à l'age de 12 Ans en créant des plugins Minecraft en Java et depuis je me suis mis à toucher à tout même si il reste mon jeu favori.
 Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi en parralèle du JavaScript, Python ou du Rust.
 </p>
@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>San Francisco</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the &quot;creme&quot;, to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/szmj2d1504889961.jpg" />
