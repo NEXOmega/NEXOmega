@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Sea breeze</td>
+<td>Havana Cocktail</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.</td>
+<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg" />
