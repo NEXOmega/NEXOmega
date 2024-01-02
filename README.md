@@ -48,18 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Munich Mule</td>
+<td>Arizona Stingers</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill glass with ice
-Pour Gin and Lime Juice
-Fill glass with Ginger Beer
-Garnish with Cucumer and Lime slice</td>
+<td>Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/rj55pl1582476101.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg" />
