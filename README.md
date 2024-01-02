@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Diesel</td>
+<td>Lord And Lady</td>
 </tr>
 <tr>
-<td>Beer</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
+<td>Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" />
