@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lord And Lady</td>
+<td>Algonquin</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+<td>Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg" />
