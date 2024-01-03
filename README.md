@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Lassi Khara</td>
+<td>Nuked Hot Chocolate</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Cocoa</td>
 <td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+<td>Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg" />
