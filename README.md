@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Lassi Khara</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td></td>
+<td>Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
 </tr>
 </tbody>
 </table>
-<img src="" />
+<img src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg" />
