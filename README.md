@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kool-Aid Slammer</td>
+<td>Downshift</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Punch &#x2F; Party Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you&#39;ll taste is the kool-aid.</td>
+<td>Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kugu2m1504735473.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg" />
