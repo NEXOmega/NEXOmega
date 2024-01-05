@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grim Reaper</td>
+<td>Dragonfly</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint.</td>
+<td>In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/kztu161504883192.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg" />
