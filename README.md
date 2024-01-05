@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolutely Cranberry Smash</td>
+<td>Grim Reaper</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir ingredients together. Serve over ice.</td>
+<td>Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kztu161504883192.jpg" />
