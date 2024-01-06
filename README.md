@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Old Pal</td>
+<td>Highland Fling Cocktail</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Chill cocktail glass. Add ingredients to a mixing glass, and fill 2&#x2F;3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.</td>
+<td>Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" />
