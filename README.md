@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Kentucky B And B</td>
+<td>Radler</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour the bourbon and Benedictine into a brandy snifter.</td>
+<td>Pour beer into large mug, slowly add the 7-up (or Sprite).</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/sqxsxp1478820236.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xz8igv1504888995.jpg" />
