@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Alfie Cocktail</td>
+<td>Old Cuban</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+<td>Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg" />
