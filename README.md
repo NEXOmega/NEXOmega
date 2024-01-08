@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bloody Mary</td>
+<td>Alfie Cocktail</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stirring gently, pour all ingredients into highball glass. Garnish.</td>
+<td>Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg" />
