@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pure Passion</td>
+<td>Banana Daiquiri</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.</td>
+<td>Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg" />
