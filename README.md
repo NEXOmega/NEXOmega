@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Amaretto Sunrise</td>
+<td>Bermuda Highball</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
+<td>Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrvtww1441206528.jpg" />
