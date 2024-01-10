@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Bermuda Highball</td>
+<td>Queen Elizabeth</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
+<td>Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qrvtww1441206528.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vpqspv1478963339.jpg" />
