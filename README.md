@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Mimosa</td>
+<td>Jitterbug</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
+<td>Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It&#39;s that simple!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg" />
