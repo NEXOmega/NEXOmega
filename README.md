@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Rum Screwdriver</td>
+<td>Paloma</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.</td>
+<td>Stir together and serve over ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg" />
