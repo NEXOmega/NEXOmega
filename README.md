@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Irish Russian</td>
+<td>Wine Cooler</td>
 </tr>
 <tr>
-<td>Beer</td>
-<td>Alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Optional alcohol</td>
 </tr>
 <tr>
-<td>Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice.</td>
+<td>Mix wine and soft drink. Pour into glass. Add ice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/swqurw1454512730.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg" />
