@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Corn n Oil</td>
+<td>Pornstar Martini</td>
 </tr>
 <tr>
 <td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Cut the half lime in half again. Add the lime, falernum, and bitters to a rocks glass. Muddle. Add the rum. (Aged Barbados rum such as Plantation 5 Year is recommended). Add ice and stir. Float the blackstrap rum on top. Serve with a straw.</td>
+<td>Straight: Pour all ingredients into mixing glass with ice cubes. Shake well. Strain in chilled martini cocktail glass. Cut passion fruit in half and use as garnish. Pour prosecco into a chilled shot glass and serve alongside the martini.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/pk6dwi1592767243.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xjhjdf1630406071.jpg" />
