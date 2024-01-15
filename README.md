@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Grape lemon pineapple Smoothie</td>
+<td>Green Goblin</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Beer</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Throw everything into a blender and liquify.</td>
+<td>Cider First, Lager then Curacao</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg" />
