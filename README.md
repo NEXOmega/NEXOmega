@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Oreo Mudslide</td>
+<td>Americano</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Blend Vodka, Kahlua, Bailey&#39;s, ice-cream and the Oreo well in a blender. Pour into a large frosted glass. Garnish with whipped cream and a cherry.</td>
+<td>Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tpwwut1468925017.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/709s6m1613655124.jpg" />
