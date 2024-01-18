@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Screaming Orgasm</td>
+<td>Horse&#39;s Neck</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Pour first vodka, then Bailey&#39;s, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey&#39;s to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey&#39;s first.</td>
+<td>Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg" />
