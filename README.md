@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Martinez Cocktail</td>
+<td>Blind Russian</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shake</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+<td>Fill glass with ice. Add all liquers. Add milk. shake.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wxuqvr1472720408.jpg" />
