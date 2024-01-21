@@ -48,16 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pisco Sour</td>
+<td>Arizona Antifreeze</td>
 </tr>
 <tr>
-<td>Cocktail</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
-</td>
+<td>Pour all ingredients into shot glass and slam !!!!</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dbtylp1493067262.jpg" />
