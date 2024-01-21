@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Pysch Vitamin Light</td>
+<td>Arctic Mouthwash</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
-<td>Non alcoholic</td>
+<td>Punch &#x2F; Party Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake with ice.</td>
+<td>Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wqstwv1478963735.jpg" />
