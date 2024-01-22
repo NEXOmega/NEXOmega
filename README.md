@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Apple Pie with A Crust</td>
+<td>Cherry Rum</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
+<td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.</td>
+<td>Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg" />
