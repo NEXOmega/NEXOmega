@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Monkey Gland</td>
+<td>Sherry Flip</td>
 </tr>
 <tr>
 <td>Ordinary Drink</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
+<td>Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg" />
