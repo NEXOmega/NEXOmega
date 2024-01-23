@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Absolut Evergreen</td>
+<td>Limeade</td>
 </tr>
 <tr>
 <td>Other &#x2F; Unknown</td>
-<td>Alcoholic</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix, pour over ice and top up with Bitter Lemon.</td>
+<td>In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5jdp5r1487603680.jpg" />
