@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Adam</td>
+<td>Big Red</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+<td>Pour ingredients into 1 ounce shot glass</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg" />
