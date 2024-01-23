@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Limeade</td>
+<td>Shot-gun</td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td>Shot</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.</td>
+<td>Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/5jdp5r1487603680.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" />
