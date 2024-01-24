@@ -48,15 +48,18 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Moranguito</td>
+<td>Greyhound</td>
 </tr>
 <tr>
-<td>Shot</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>first you put rhe absinthe, then put tequila, then put the Granadine syrup.</td>
+<td>Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg" />
