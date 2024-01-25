@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Angel Face</td>
+<td>155 Belmont</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake all ingredients with ice and strain contents into a cocktail glass.</td>
+<td>Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg" />
