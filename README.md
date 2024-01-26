@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Funk and Soul</td>
+<td>Kill the cold Smoothie</td>
 </tr>
 <tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
+<td>Other &#x2F; Unknown</td>
+<td>Non alcoholic</td>
 </tr>
 <tr>
-<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
+<td>Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg" />
