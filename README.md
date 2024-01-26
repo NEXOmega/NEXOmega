@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Tennesee Mud</td>
+<td>Funk and Soul</td>
 </tr>
 <tr>
-<td>Coffee &#x2F; Tea</td>
+<td>Cocktail</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.</td>
+<td>Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/txruqv1441245770.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" />
