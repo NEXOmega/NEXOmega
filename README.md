@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Banana Cantaloupe Smoothie</td>
+<td></td>
 </tr>
 <tr>
-<td>Other &#x2F; Unknown</td>
-<td>Non alcoholic</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg" />
+<img src="" />
