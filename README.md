@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Microwave Hot Cocoa</td>
+<td>Gin Smash</td>
 </tr>
 <tr>
-<td>Cocoa</td>
-<td>Non alcoholic</td>
+<td>Ordinary Drink</td>
+<td>Alcoholic</td>
 </tr>
 <tr>
-<td>Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1&#x2F;2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1&#x2F;2 to 2 minutes or until hot. Stir in vanilla, blend well.</td>
+<td>Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/8y4x5f1487603151.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iprva61606768774.jpg" />
