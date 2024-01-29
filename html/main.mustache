@@ -9,9 +9,11 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <p>
 {{#knowledge}}
 <h3>{{name}}</h3>
+<p>
 {{#list}}
 <img src="{{&.}}" />
 {{/list}}
+</p>
 {{/knowledge}}
 <p>
 
@@ -26,23 +28,3 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </a>
 {{/contacts}}
 </p>
-
-
-<table style="width:100%">
-<thead>
-<th colspan="2">Que dois je boire ?</th>
-</thead>
-<tbody>
-<tr>
-<td>{{drink.name}}</td>
-</tr>
-<tr>
-<td>{{drink.category}}</td>
-<td>{{drink.alcoholic}}</td>
-</tr>
-<tr>
-<td>{{drink.instructions}}</td>
-</tr>
-</tbody>
-</table>
-<img src="{{& drink.image}}" />

@@ -8,24 +8,32 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <h2>Mes Languages et Outils Favoris</br></h2>
 <p>
 <h3>Habitué avec</h3>
+<p>
 <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" />
+</p>
 <h3>J&#39;apprends aussi</h3>
+<p>
 <img src="https://img.shields.io/badge/-Redis-blue?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/-NodeJs-blue?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white" />
+</p>
 <h3>J&#39;ai l&#39;habitude de pratiquer sur</h3>
+<p>
 <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-NixOs-blue?style=flat-square&logo=nixos&logoColor=white" />
 <img src="https://img.shields.io/badge/-Raspberrry-blue?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
+</p>
 <h3>En utilisant</h3>
+<p>
 <img src="https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white" />
 <img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-IntelliJ Idea-blue?style=flat-square&logo=intellij-idea&logoColor=white" />
+</p>
 <p>
 
 <p>
@@ -40,23 +48,3 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
-
-
-<table style="width:100%">
-<thead>
-<th colspan="2">Que dois je boire ?</th>
-</thead>
-<tbody>
-<tr>
-<td>Old Cuban</td>
-</tr>
-<tr>
-<td>Cocktail</td>
-<td>Alcoholic</td>
-</tr>
-<tr>
-<td>Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
-</tr>
-</tbody>
-</table>
-<img src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg" />
