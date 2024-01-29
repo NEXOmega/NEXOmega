@@ -48,15 +48,15 @@ Le Java reste le langage auquel je suis le plus habitué mais je pratique aussi 
 </thead>
 <tbody>
 <tr>
-<td>Orange Oasis</td>
+<td>Fahrenheit 5000</td>
 </tr>
 <tr>
-<td>Ordinary Drink</td>
+<td>Shot</td>
 <td>Alcoholic</td>
 </tr>
 <tr>
-<td>Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
+<td>Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.</td>
 </tr>
 </tbody>
 </table>
-<img src="https://www.thecocktaildb.com/images/media/drink/su1olx1582473812.jpg" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg" />
